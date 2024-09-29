@@ -3,15 +3,15 @@ import { useStaticQuery, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import SeO from '../components/seo'
 
-export default function Award() {
+export default function About() {
   const data = useStaticQuery(graphql`
-    query AwardQuery {
+    query AboutQuery {
       site {
         siteMetadata {
           title
         }
       }
-      markdownRemark(frontmatter: { templateKey: { eq: "awards-page" } }) {
+      markdownRemark(frontmatter: { templateKey: { eq: "about-page" } }) {
         id
         excerpt(pruneLength: 160)
         frontmatter {

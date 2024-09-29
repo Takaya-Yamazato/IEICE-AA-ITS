@@ -16,8 +16,7 @@ const IndexPageTemplate = ({ data }) => (
     <div
       className="full-width-image margin-top-0"
       style={{
-        backgroundImage: `url('img/home-jumbotron.webp')`,
-        // backgroundImage: {data.markdownRemark.frontmatter.image},
+        backgroundImage: `url('img/AA-ITS.webp')`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
       }}
