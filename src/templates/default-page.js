@@ -39,6 +39,8 @@ export default function DefaultPage() {
                   {post.frontmatter.title}
                   {/* {siteTitle} */}
                 </h2>
+                <h3>{post.frontmatter.description}</h3>
+                <br />
                 <div
                   className="content"
                   dangerouslySetInnerHTML={{ __html: post.html }}

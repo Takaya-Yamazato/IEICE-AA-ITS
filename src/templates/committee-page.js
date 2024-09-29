@@ -1,17 +1,18 @@
 import React from 'react'
+// import PropTypes from 'prop-types'
 import { useStaticQuery, graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import SeO from '../components/seo'
+// import Content, { HTMLContent } from '../components/Content'
 
-export default function About() {
+export default function CommitteePage() {
   const data = useStaticQuery(graphql`
-    query AboutQuery {
+    query committeePageQuery {
       site {
         siteMetadata {
           title
         }
       }
-      markdownRemark(frontmatter: { templateKey: { eq: "about-page" } }) {
+      markdownRemark(frontmatter: { templateKey: { eq: "committee-page" } }) {
         id
         excerpt(pruneLength: 160)
         frontmatter {
@@ -25,16 +26,10 @@ export default function About() {
   `)
 
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
+  // const siteTitle = data.site.siteMetadata?.title || `Title`
 
   return (
-    // <Layout location={location} title={siteTitle}>
     <Layout>
-      <SeO
-        // title={post.frontmatter.title}
-        title={siteTitle}
-        description={post.frontmatter.description || post.excerpt}
-      />
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">
@@ -43,7 +38,8 @@ export default function About() {
                 <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                   {post.frontmatter.title}
                 </h2>
-                <h5>{post.frontmatter.date}</h5>
+                <h3>{post.frontmatter.description}</h3>
+                <br />
                 <div
                   className="content"
                   dangerouslySetInnerHTML={{ __html: post.html }}
@@ -56,3 +52,27 @@ export default function About() {
     </Layout>
   )
 }
+
+// DefaultPageTemplate.propTypes = {
+//   title: PropTypes.string.isRequired,
+//   content: PropTypes.string,
+//   // contentComponent: PropTypes.func,
+// }
+
+const CommitteePageTemplate = ({ data }) => {
+  const post = data.markdownRemark
+
+  return (
+    <Layout>
+      <CommitteePageTemplate
+        // contentComponent={HTMLContent}
+        title={post.frontmatter.title}
+        content={post.html}
+      />
+    </Layout>
+  )
+}
+
+// CommitteePageTemplate.propTypes = {
+//   data: PropTypes.object.isRequired,
+// }

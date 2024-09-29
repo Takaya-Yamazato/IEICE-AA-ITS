@@ -103,7 +103,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     }); // End createPage
   }); // End Make tag pages
 
-  createRedirect({ fromPath: "/xplore/Migration-of-EB-and-ComEX-to-IEEE-Xplore/", toPath: "/xplore/", isPermanent: true });
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

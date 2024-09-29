@@ -8,13 +8,9 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image margin-top-0"
+          className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('../img/home-jumbotron.webp')`,
-            // backgroundImage: `url('img/home-jumbotron.jpg')`, // これはダメ
-            // backgroundImage: {data.markdownRemark.image},
-            backgroundPosition: `top left`,
-            backgroundAttachment: `fixed`,
+            backgroundImage: `url('../img/AA-ITS.jpg')`,
           }}
         >
           <h1
@@ -26,7 +22,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            News and Updates
+            お知らせ（イベント情報）
           </h1>
         </div>
         <section className="section">

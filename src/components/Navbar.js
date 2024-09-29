@@ -1,8 +1,8 @@
 import React from "react";
 // import { Link, navigate } from "gatsby";
 import { Link } from "gatsby";
-import cslogo from "../img/cslogo.svg";
-import logo from "../img/logo.svg";
+import cslogo from "../../static/img/cslogo.svg";
+import logo from "../../static/img/logo.svg";
 // import logo from "../img/logo-white.svg";
 // import { isLoggedIn, logout } from "../services/auth";
 
@@ -61,41 +61,21 @@ const Navbar = class extends React.Component {
           </div>
           <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/xplore/">
-                Migration of EB and ComEX to IEEE Xplore
-              </Link>
-              <Link className="navbar-item" to="/awards/">
-                Awards
-              </Link>
-              <Link className="navbar-item" to="/recommendations/">
-                Recommendations
+              <Link className="navbar-item" to="/about/">
+                AA-ITS研とは
               </Link>
               <Link className="navbar-item" to="/news/">
-                News and Updates
+                お知らせ（イベント情報）
+              </Link>
+              <Link className="navbar-item" to="/contribution/">
+                研究会に参加するには
+              </Link>
+              <Link className="navbar-item" to="/committee/">
+                専門委員会
               </Link>
               <Link className="navbar-item" to="/contact/">
-                Contact
+                コンタクト
               </Link>
-              {/* <Link className="navbar-item" to="/xplore/">
-                Xplore
-              </Link> */}
-              {/* <div className="navbar-item">
-                {isLoggedIn() ? (
-                  <a
-                    href="/"
-                    onClick={(event) => {
-                      event.preventDefault();
-                      logout(() => navigate(`/xplore/login`));
-                    }}
-                  >
-                    Logout
-                  </a>
-                ) : (
-                  <Link className="navbar-item" to="/xplore/login">
-                    Login
-                  </Link>
-                )}
-              </div> */}
             </div>
 
             <div className="navbar-end has-text-centered">
