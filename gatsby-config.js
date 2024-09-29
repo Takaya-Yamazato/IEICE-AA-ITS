@@ -7,10 +7,10 @@ module.exports = {
   // pathPrefix: `~yamazato`,　//チェック用
   pathPrefix: `/cs/cs-edit/en`, // https://www.ieice.org/cs/cs-edit/en/
   siteMetadata: {
-    title: 'IEICE Communication Society Editorial Board',
+    title: 'IEICE Technical Committee on AA-ITS',
     description:
-      'The IEICE Communication Society Editorial Board governs four of the society journals; IEICE Transaction on Communications, IEICE Transactions on Communications (Japanese Edition), IEICE Communications Express (ComEX), and IEICE Bplus (Communication Society Magazine).',
-    siteUrl: `https://www.ieice.org`,
+      'Technical Committee on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms（AA-ITS）',
+    siteUrl: `https://www.ieice.org/cs/aa-its/`,
     social: {
       twitter: `ieice_EIC`,
     },
@@ -99,12 +99,6 @@ module.exports = {
         ],
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-netlify-cms`,
-    //   options: {
-    //     modulePath: `${__dirname}/src/cms/cms.js`,
-    //   },
-    // },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     {
