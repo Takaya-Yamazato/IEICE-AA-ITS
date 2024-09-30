@@ -70,7 +70,8 @@ ITSスマートポールに代表される日本発の画期的な交通安全�
 1.	災害時のICTシステム
 1.	地域DXから見た広域プラットフォームの利点や欠点
 1.	関連する内容
-### 申し込み方法：　[電子情報通信学会 研究会発表申込システム](https://ken.ieice.org/ken/program/index.php?instsoc=IEICE-2B&tgid=IEICE-AA-ITS)よりお申し込み下さい。 
+### 申し込み方法：　
+#### [電子情報通信学会 研究会発表申込システム](https://ken.ieice.org/ken/program/index.php?instsoc=IEICE-2B&tgid=IEICE-AA-ITS)よりお申し込み下さい。 
 1. 発表申込締切：　2024年ｘ月ｘ日 
 1. 発表概要提出締切： 2024年ｘ月ｘ日 
 1. 発表概要：　電子情報通信学会の研究会原稿の様式に従い、発表概要（氏名、所属、連絡先を含めて1ページ以内）をPDF ファイルでご提出下さい。研究会原稿の様式については、[電子情報通信学会ホームページ](http://www.ieice.org/jpn/kenkyuukai/shorui.html) をご参照下さい。発表概要資料の著作権は著者に帰属します。 
