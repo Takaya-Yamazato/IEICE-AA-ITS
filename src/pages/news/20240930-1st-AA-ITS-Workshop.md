@@ -10,11 +10,10 @@ tags:
   - 第１回研究会
 ---
 
-## 車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第1回研究会　の開催案内
+-  車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第1回研究会　の開催案内
+- 1st Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (AA-ITS Workshop)
 
-### 1st Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (AA-ITS Workshop)
-
-#### 実行委員長：　山里敬也　（名古屋大学）
+実行委員長：　山里敬也　（名古屋大学）
 
 # 研究会の背景
 
@@ -66,18 +65,18 @@ ITSスマートポールに代表される日本発の画期的な交通安全�
 
 　
 # 発表申込
-## テーマ 
+### テーマ 
 1.	交通流量やIoEなど地域データのセンシング／マイニング／通信／ＮＷ化技術
 1.	災害時のICTシステム
 1.	地域DXから見た広域プラットフォームの利点や欠点
 1.	関連する内容
-1. 申し込み方法：　ホームページ（https://・・・・・・・）の発表申し込みサイトよりお申し込み下さい。 
+### 申し込み方法：　[AA-ITS研ホームページ](https://www.ieice.org/cs/aa-its/)の発表申し込みサイトよりお申し込み下さい。 
 1. 発表申込締切：　2024年ｘ月ｘ日 
 1. 発表概要提出締切： 2024年ｘ月ｘ日 
 1. 発表概要：　電子情報通信学会の研究会原稿の様式に従い、発表概要（氏名、所属、連絡先を含めて1ページ以内）をPDF ファイルでご提出下さい。研究会原稿の様式については、[電子情報通信学会ホームページ](http://www.ieice.org/jpn/kenkyuukai/shorui.html) をご参照下さい。発表概要資料の著作権は著者に帰属します。 
 
 # 参加申し込み
-- 参加をご希望される方は、[AA-ITS研ホームページ](https://www.ieice.org/cs/aa-its/) https://www.ieice.org/cs/aa-its/contact/ よりお申し込み下さい。<br />参加申し込み 方法および参加費支払い方法の詳細も掲載されております。 
+- 参加をご希望される方は、[AA-ITS研ホームページ](https://www.ieice.org/cs/aa-its/) https://www.ieice.org/cs/aa-its/ よりお申し込み下さい。<br />参加申し込み 方法および参加費支払い方法の詳細も掲載されております。 
 - 早期参加登録締切： ｘ月ｘ日 
 - 参加登録最終締切： ｘ月ｘ日
 
