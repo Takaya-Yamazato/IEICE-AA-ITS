@@ -44,8 +44,9 @@ ITSスマートポールに代表される日本発の画期的な交通安全�
 本特別研究専門委員会の活動計画は次の通りです：
 
 1. 研究開発の議論の場の提供
-   - 自動運転（AD）や先進運転支援システム（ADAS）
-   - 高度道路交通システム（ITS）
+   - 自動運転（Autonomous Driving：AD）や先進運転支援システム（Advanced Driver-Assistance Systems：ADAS）
+   - 高度道路交通システム（Intelligent Transport Systems：ITS）
+   - 車両情報ハブ（Vehicle HUB: V-HUB）
    - これらを中心とするICTプラットフォームの要素技術
 
 2. 実証実験への参加

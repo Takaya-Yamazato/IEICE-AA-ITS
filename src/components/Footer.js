@@ -12,14 +12,23 @@ import github from "../../static/img/social/github-icon.svg";
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer has-background-primary-invert has-text-white-ter">
         <div className="content has-text-centered">
         <Link to="/">
-          <img src={logo} alt="IEICE AA-ITS" style={{ height: "3em" }} />
+          {/* <img src={logo} alt="IEICE AA-ITS" style={{ height: "3em" }} /> */}
+          <h1
+        className="has-background-primary-invert is-size-4 has-text-centered"
+        style={{
+          color: 'white',
+          padding: '1rem',
+        }}
+      >
+        車載 ICT と AD/ADAS-ITS インフラを核とする 地域ICTプラットフォーム に関する特別研究専門委員会 (AA-ITS研究会)
+      </h1>
           </Link>
         </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        <div className="content has-text-centered has-background-primary-invert has-text-white-ter">
+          <div className="container has-background-primary-invert has-text-white-ter">
             <div className="columns">
               <div className="column is-4">
                 <section>
@@ -49,7 +58,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact/">
-                        コンタクト
+                        お問い合わせ
                       </Link>
                     </li>
                     <li>

@@ -40,21 +40,23 @@ const IndexPageTemplate = ({ data }) => (
                 <div className="tile">
                   {/* <p>{data.markdownRemark.frontmatter.aboutUs}</p> */}
                 </div>
-                <section
-                  className="content"
-                  dangerouslySetInnerHTML={{
-                    __html: data.markdownRemark.html,
-                  }}
-                />
+
               </div>
 
               <div className="columns">
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    {data.markdownRemark.frontmatter.heading}
+                    {/* {data.markdownRemark.frontmatter.heading} */}
                   </h3>
-                  <p>{data.markdownRemark.frontmatter.description}</p>
+                  {/* <p>{data.markdownRemark.frontmatter.description}</p> */}
+                  <section
+                  className="content"
+                  dangerouslySetInnerHTML={{
+                    __html: data.markdownRemark.html,
+                  }}
+                />
                 </div>
+
               </div>
 
 
@@ -62,12 +64,12 @@ const IndexPageTemplate = ({ data }) => (
 
               <div className="column is-12">
                 <h3 className="has-text-weight-semibold is-size-2">
-                  News and Updates
+                  お知らせ（イベント情報）
                 </h3>
                 <BlogRoll />
                 <div className="column is-12 has-text-centered">
                   <Link className="btn" to="/news">
-                    Read more news and updates
+                    全てのお知らせ（イベント情報）をご覧になるには，ここをクリックしてください．
                   </Link>
                 </div>
               </div>

@@ -11,25 +11,19 @@ const ContactUsPage = () => (
           <div className="column is-10 is-offset-1">
             <div className="section">
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                Contact
+                お問い合わせ
               </h2>
               <div class="columns">
                 <div class="column is-size-5">
-                  For your inquiry, please contact us via email.
+                  <p>AA-ITS研究会へのお問い合わせは以下のGoogle Formよりお寄せください．</p>
+                  <br />
+                  <p>お問い合わせフォーム</p>
+                  <br />
+                  <p>なるべく早く回答させていただくようにいたしますが，内容によってはお時間をいただく場合もあります．予めご了承ください．</p>
+                  <p>暫く経過しても回答が無い場合は，お手数ですが，再度，お問い合わせフォームからお問い合わせください．</p>
                 </div>
               </div>
-              <div class="columns">
-                <div class="column is-half">Transactions on Communications</div>
-                <div class="column">trans-b (at) ieice.org</div>
-              </div>
-              <div class="columns">
-                <div class="column is-half">Communications Express</div>
-                <div class="column">comex (at) ieice.org</div>
-              </div>
-              <div class="columns">
-                <div class="column is-half">General Inquiries</div>
-                <div class="column">cs-secretariat (at) ieice.org</div>
-              </div>
+              
             </div>
           </div>
         </div>

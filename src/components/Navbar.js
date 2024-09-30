@@ -74,7 +74,7 @@ const Navbar = class extends React.Component {
                 専門委員会
               </Link>
               <Link className="navbar-item" to="/contact/">
-                コンタクト
+                お問い合わせ
               </Link>
             </div>
 
