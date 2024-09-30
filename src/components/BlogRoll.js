@@ -41,7 +41,8 @@ class BlogRoll extends React.Component {
                   <span> &bull; </span>
                 </p>
                 <p>
-                  {post.excerpt}
+                  {/* {post.excerpt} */}
+                  {post.frontmatter.description}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
@@ -83,6 +84,7 @@ export default function BlogRollQuery() {
                 frontmatter {
                   title
                   templateKey
+                  description
                   date(formatString: "MMMM DD, YYYY")
                   featuredpost
                   featuredimage {
