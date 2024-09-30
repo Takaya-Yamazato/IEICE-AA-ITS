@@ -23,7 +23,7 @@ const Footer = class extends React.Component {
           padding: '1rem',
         }}
       >
-        車載 ICT と AD/ADAS-ITS インフラを核とする 地域ICTプラットフォーム に関する特別研究専門委員会 (AA-ITS研究会)
+        車載 ICT と AD/ADAS-ITS インフラを核とする<br />地域ICTプラットフォーム に関する特別研究専門委員会<br /> (AA-ITS研究会)
       </h1>
           </Link>
         </div>
