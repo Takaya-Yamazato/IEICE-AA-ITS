@@ -40,8 +40,8 @@ export default function About() {
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="section">
-              <h5>{post.frontmatter.date}</h5>
-              <br />
+                <h5>{post.frontmatter.date}</h5>
+                <br />
                 <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                   {post.frontmatter.title}
                 </h2>

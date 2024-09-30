@@ -1,30 +1,33 @@
-import React from "react";
-import { Link } from "gatsby";
+import React from 'react'
+import { Link } from 'gatsby'
 
 // import logo from "../../static/img/logo.svg";
-import facebook from "../../static/img/social/facebook.svg";
+import facebook from '../../static/img/social/facebook.svg'
 // import instagram from '../../static/img/social/instagram.svg'
-import twitter from "../../static/img/social/twitter.svg";
+import twitter from '../../static/img/social/twitter.svg'
 // import vimeo from '../../static/img/social/vimeo.svg'
-import youtube from "../../static/img/social/youtube.svg";
-import github from "../../static/img/social/github-icon.svg";
+import youtube from '../../static/img/social/youtube.svg'
+import github from '../../static/img/social/github-icon.svg'
 
 const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-primary-invert has-text-white-ter">
         <div className="content has-text-centered">
-        <Link to="/">
-          {/* <img src={logo} alt="IEICE AA-ITS" style={{ height: "3em" }} /> */}
-          <h1
-        className="has-background-primary-invert is-size-4 has-text-centered"
-        style={{
-          color: 'white',
-          padding: '1rem',
-        }}
-      >
-        車載 ICT と AD/ADAS-ITS インフラを核とする<br />地域ICTプラットフォーム に関する特別研究専門委員会<br /> (AA-ITS研究会)
-      </h1>
+          <Link to="/">
+            {/* <img src={logo} alt="IEICE AA-ITS" style={{ height: "3em" }} /> */}
+            <h1
+              className="has-background-primary-invert is-size-4 has-text-centered"
+              style={{
+                color: 'white',
+                padding: '1rem',
+              }}
+            >
+              車載 ICT と AD/ADAS-ITS インフラを核とする
+              <br />
+              地域ICTプラットフォーム に関する特別研究専門委員会
+              <br /> (AA-ITS研究会)
+            </h1>
           </Link>
         </div>
         <div className="content has-text-centered has-background-primary-invert has-text-white-ter">
@@ -39,8 +42,8 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <Link className="navbar-item" to="/about/">
-                        AA-ITS研とは
-                      </Link>
+                      AA-ITS研とは
+                    </Link>
                     <li>
                       <Link className="navbar-item" to="/news/">
                         お知らせ（イベント情報）
@@ -61,8 +64,7 @@ const Footer = class extends React.Component {
                         お問い合わせ
                       </Link>
                     </li>
-                    <li>
-                    </li>
+                    <li></li>
                     {/* <li>
                       <a className="navbar-item" href="https://ieice-cs-edit.netlify.app/admin/" target="_blank" rel="noopener noreferrer">
                         Admin
@@ -75,27 +77,43 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <a className="navbar-item" href="https://www.ieice.org/cs/jpn/EB/index.html">
+                      <a
+                        className="navbar-item"
+                        href="https://www.ieice.org/cs/jpn/EB/index.html"
+                      >
                         IEICE Transaction on Communications (EB)
                       </a>
                     </li>
                     <li>
-                      <a className="navbar-item" href="https://www.ieice.org/publications/comex/">
+                      <a
+                        className="navbar-item"
+                        href="https://www.ieice.org/publications/comex/"
+                      >
                         IEICE Communications Express (ComEX)
                       </a>
                     </li>
                     <li>
-                      <a className="navbar-item" href="https://www.ieice.org/cs/jpn/JB/index-new.html">
-                        IEICE Transactions on Communications (Japanese Edition, JB)
+                      <a
+                        className="navbar-item"
+                        href="https://www.ieice.org/cs/jpn/JB/index-new.html"
+                      >
+                        IEICE Transactions on Communications (Japanese Edition,
+                        JB)
                       </a>
                     </li>
                     <li>
-                      <a className="navbar-item" href="https://www.ieice.org/~cs-edit/magazine/">
+                      <a
+                        className="navbar-item"
+                        href="https://www.ieice.org/~cs-edit/magazine/"
+                      >
                         IEICE Bplus (Communication Society Magazine)
                       </a>
                     </li>
                     <li>
-                      <a className="navbar-item" href="https://www.ieice.org/cs_r/eng/index.html">
+                      <a
+                        className="navbar-item"
+                        href="https://www.ieice.org/cs_r/eng/index.html"
+                      >
                         IEICE Communication Society
                       </a>
                     </li>
@@ -104,24 +122,49 @@ const Footer = class extends React.Component {
               </div>
               <div className="column is-4 social">
                 <a title="facebook" href="https://www.facebook.com/IEICE.org">
-                  <img src={facebook} alt="Facebook" style={{ width: "1em", height: "1em" }} />
+                  <img
+                    src={facebook}
+                    alt="Facebook"
+                    style={{ width: '1em', height: '1em' }}
+                  />
                 </a>
                 <a title="twitter" href="https://twitter.com/ieice_EIC">
-                  <img className="fas fa-lg" src={twitter} alt="Twitter" style={{ width: "1em", height: "1em" }} />
+                  <img
+                    className="fas fa-lg"
+                    src={twitter}
+                    alt="Twitter"
+                    style={{ width: '1em', height: '1em' }}
+                  />
                 </a>
-                <a title="youtube" href="https://www.youtube.com/channel/UCDMkjDeK_8WafkMvIfbtTKQ">
-                  <img src={youtube} alt="youtube" style={{ width: "1em", height: "1em" }} />
+                <a
+                  title="youtube"
+                  href="https://www.youtube.com/channel/UCDMkjDeK_8WafkMvIfbtTKQ"
+                >
+                  <img
+                    src={youtube}
+                    alt="youtube"
+                    style={{ width: '1em', height: '1em' }}
+                  />
                 </a>
-                <a title="github" href="https://github.com/Takaya-Yamazato/IEICE-CS-edit" target="_blank" rel="noopener noreferrer">
-                  <img src={github} alt="github" style={{ width: "1em", height: "1em" }} />
+                <a
+                  title="github"
+                  href="https://github.com/Takaya-Yamazato/IEICE-CS-edit"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src={github}
+                    alt="github"
+                    style={{ width: '1em', height: '1em' }}
+                  />
                 </a>
               </div>
             </div>
           </div>
         </div>
       </footer>
-    );
+    )
   }
-};
+}
 
-export default Footer;
+export default Footer

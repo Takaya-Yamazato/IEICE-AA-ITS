@@ -16,7 +16,7 @@ const IndexPageTemplate = ({ data }) => (
     <div
       className="full-width-image-container margin-top-0"
       style={{
-        backgroundImage: `url('img/AA-ITS.jpg')`,        
+        backgroundImage: `url('img/AA-ITS.jpg')`,
       }}
     >
       <h1
@@ -40,7 +40,6 @@ const IndexPageTemplate = ({ data }) => (
                 <div className="tile">
                   {/* <p>{data.markdownRemark.frontmatter.aboutUs}</p> */}
                 </div>
-
               </div>
 
               <div className="columns">
@@ -50,22 +49,19 @@ const IndexPageTemplate = ({ data }) => (
                   </h3>
                   {/* <p>{data.markdownRemark.frontmatter.description}</p> */}
                   <section
-                  className="content"
-                  dangerouslySetInnerHTML={{
-                    __html: data.markdownRemark.html,
-                  }}
-                />
+                    className="content"
+                    dangerouslySetInnerHTML={{
+                      __html: data.markdownRemark.html,
+                    }}
+                  />
                 </div>
-
               </div>
-
-
-
-
+              <hr />
               <div className="column is-12">
                 <h3 className="has-text-weight-semibold is-size-2">
                   お知らせ（イベント情報）
                 </h3>
+                <br />
                 <BlogRoll />
                 <div className="column is-12 has-text-centered">
                   <Link className="btn" to="/news">
