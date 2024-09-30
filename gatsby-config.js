@@ -5,7 +5,7 @@ module.exports = {
   //   DEV_SSR: true
   // },
   // pathPrefix: `~yamazato`,　//チェック用
-  pathPrefix: `/cs/aa-its/public_html`, // https://www.ieice.org/cs/aa-its/
+  pathPrefix: `/cs/aa-its/`, // https://www.ieice.org/cs/aa-its/
   siteMetadata: {
     title: 'AA-ITS',
     description:

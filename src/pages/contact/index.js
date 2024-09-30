@@ -17,7 +17,7 @@ const ContactUsPage = () => (
                 <div class="column is-size-5">
                   <p>AA-ITS研究会へのお問い合わせは以下のGoogle Formよりお寄せください．</p>
                   <br />
-                  <p>お問い合わせフォーム</p>
+                  <p>[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfsXtCpHGt6pd07WTV9OcY2Y3oVt7-z1Vn0IRvxzSJPDygOSQ/viewform)</p>
                   <br />
                   <p>なるべく早く回答させていただくようにいたしますが，内容によってはお時間をいただく場合もあります．予めご了承ください．</p>
                   <p>暫く経過しても回答が無い場合は，お手数ですが，再度，お問い合わせフォームからお問い合わせください．</p>
