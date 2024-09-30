@@ -79,7 +79,7 @@ const Navbar = class extends React.Component {
             </div>
 
             <div className="navbar-end has-text-centered">
-              <a className="navbar-item" title="IEICE Communication Society" href="https://www.ieice.org/cs_r/eng/index.html" target="_blank" rel="noopener noreferrer">
+              <a className="navbar-item" title="IEICE Communication Society" href="https://www.ieice.org/cs_r/jpn/" target="_blank" rel="noopener noreferrer">
                 <span className="icon">
                   <img src={cslogo} alt="IEICE Communication Society logo" />
                 </span>
