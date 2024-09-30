@@ -18,28 +18,36 @@ class BlogRoll extends React.Component {
                   post.frontmatter.featuredpost ? 'is-featured' : ''
                 }`}
               >
-                {post.frontmatter.featuredimage ? (
-                  <div className="featured-thumbnail">
-                    <PreviewCompatibleImage
-                      imageInfo={{
-                        image: post.frontmatter.featuredimage,
-                        alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                      }}
-                    />
-                  </div>
-                ) : null}
-                                  <span className="subtitle is-size-6 is-block">
-                    {post.frontmatter.date}
-                  </span>
-                <p className="post-meta">
-                  <Link
-                    className="title has-text-primary-dark is-size-4"
-                    to={post.fields.slug}
-                  >
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
-                </p>
+                <header>
+                  {post.frontmatter.featuredimage ? (
+                    <div className="featured-thumbnail">
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: post.frontmatter.featuredimage,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                          width:
+                            post.frontmatter.featuredimage.childImageSharp
+                              .gatsbyImageData.width,
+                          height:
+                            post.frontmatter.featuredimage.childImageSharp
+                              .gatsbyImageData.height,
+                        }}
+                      />
+                    </div>
+                  ) : null}
+                  <p className="post-meta">
+                    <Link
+                      className="title has-text-primary is-size-4"
+                      to={post.fields.slug}
+                    >
+                      {post.frontmatter.title}
+                    </Link>
+                    <span> &bull; </span>
+                    <span className="subtitle is-size-5 is-block">
+                      {post.frontmatter.date}
+                    </span>
+                  </p>
+                </header>
                 <p>
                   {/* {post.excerpt} */}
                   {post.frontmatter.description}
