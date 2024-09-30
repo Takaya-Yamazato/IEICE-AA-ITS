@@ -10,12 +10,9 @@ tags:
   - 第１回研究会
 ---
 
-## 車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム
-## 第1回研究会　の開催案内
-## AA-ITS Workshop
+## 車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第1回研究会　の開催案内
 
-### 1st Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms
-### （所属先：通信ソサイエティ）
+### 1st Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (AA-ITS Workshop)
 
 #### 実行委員長：　山里敬也　（名古屋大学）
 
