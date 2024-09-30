@@ -7,7 +7,7 @@ module.exports = {
   // pathPrefix: `~yamazato`,　//チェック用
   pathPrefix: `/cs/cs-edit/en`, // https://www.ieice.org/cs/cs-edit/en/
   siteMetadata: {
-    title: 'IEICE Technical Committee on AA-ITS',
+    title: 'AA-ITS',
     description:
       'Technical Committee on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms（AA-ITS）',
     siteUrl: `https://www.ieice.org/cs/aa-its/`,
