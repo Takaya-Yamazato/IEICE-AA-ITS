@@ -11,7 +11,7 @@ date: 2024-09-29T11:00:57.137Z
 
 以下のリンクから開催スケジュールを確認の上，リンク内にあるお申込みのページへとお進みください．
 
-[研究会スケジュールとお申し込みのページ](https://ken.ieice.org/ken/program/index.php?instsoc=IEICE-B&tgid=)
+[研究会スケジュールとお申し込みのページ](https://ken.ieice.org/ken/program/index.php?instsoc=IEICE-B&tgid=IEICE-AA-ITS)
 
 申込みの際に必要となる情報は以下となります．
 
