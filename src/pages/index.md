@@ -16,6 +16,7 @@ description: "AA-ITS研究会では、先進的な自動車・交通技術を出
 
 ---
 ![ITSスマートポール多角利用イメージ](/img/ITS-smart-pole.png)
+##### 図：ITSスマートポール多角利用イメージ（出典「ITS Japan」）
 
 AA-ITS研究会は以下の3つを目的に掲げ、活動していきます。
 
