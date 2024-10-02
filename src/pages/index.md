@@ -15,6 +15,7 @@ description: "AA-ITS研究会では、先進的な自動車・交通技術を出
 ### 英文略称：　AA-ITS
 
 ---
+![ITSスマートポール多角利用イメージ](/img/ITS-smart-pole.png)
 
 AA-ITS研究会は以下の3つを目的に掲げ、活動していきます。
 
