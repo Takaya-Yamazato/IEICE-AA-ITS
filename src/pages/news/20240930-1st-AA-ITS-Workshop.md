@@ -87,4 +87,4 @@ ITSスマートポールに代表される日本発の画期的な交通安全�
 　
 # 問い合わせ
 
-ご不明な点は，どうぞ遠慮無く，[AA-ITS研　お問い合わせGoogle Form](https://docs.google.com/forms/d/e/1FAIpQLSfsXtCpHGt6pd07WTV9OcY2Y3oVt7-z1Vn0IRvxzSJPDygOSQ/viewform)よりお問い合わせください．
+ご不明な点は，どうぞ遠慮無く，[AA-ITS研　お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfsXtCpHGt6pd07WTV9OcY2Y3oVt7-z1Vn0IRvxzSJPDygOSQ/viewform)よりお問い合わせください．
