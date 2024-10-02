@@ -31,10 +31,11 @@ Github のアカウントがあることを前提にしています。
 クローンしたディレクトに移動し、そこで作業します。
 
 ```
-% cd IEICE-CS-edit/
+% cd IEICE-AA-ITS/
 % ls
-CODE_OF_CONDUCT.md       LICENSE                  README.md                gatsby-config.js         lambda                   node_modules             public                   static
-CONTRIBUTING.md          PULL_REQUEST_TEMPLATE.md _headers                 gatsby-node.js           netlify.toml             package.json             src                      yarn.lock
+CODE_OF_CONDUCT.md       PULL_REQUEST_TEMPLATE.md gatsby-config.js         node_modules             public
+CONTRIBUTING.md          README.md                gatsby-node.js           package-lock.json        src
+LICENSE                  _headers                 lambda                   package.json             static
 ```
 
 🧐 What's inside?
@@ -53,15 +54,14 @@ $ tree -L 1
 ├── gatsby-config.js
 ├── gatsby-node.js
 ├── lambda
-├── netlify.toml
 ├── node_modules
+├── package-lock.json
 ├── package.json
 ├── public
 ├── src
-├── static
-└── yarn.lock
+└── static
 
-5 directories, 11 files
+6 directories, 10 files
 
 ```
 
@@ -106,13 +106,13 @@ README.md:
 
 ### 環境構築
 
-`yarn` で環境構築を行います。
+`npm` で環境構築を行います。
 
 ```
-% yarn
+% npm install
 ```
 
-`npm install` でも OK ですが、`yarn`の方が早いです。
+`yarn install` でも OK ですが、gatsbyは`npm`を推奨しています．
 なお、`yarn`と`npm`を混在して使うと誤動作する場合がありますので、やめましょう。
 
 ## ビルド (build)
@@ -124,11 +124,11 @@ README.md:
 
 ```
 % gatsby clean && gatsby build
-(yarn run clean; yarn run build でもOK)
+(npm run clean; npm run build でもOK)
 ```
 
 最初の `gatsby clean` はキャッシュや不要ファイルを削除するコマンドです。
-`yarn run clean, yarn run build` は `package.json`で定義されています。
+`npm run clean, npm run build` は `package.json`で定義されています。
 
 ## ディベロプ (develop)
 
@@ -136,7 +136,7 @@ README.md:
 
 ```
 % gatsby clean && gatsby develop
-(yarn run clean; yarn run develop でもOK)
+(npm run clean; npm run develop でもOK)
 ```
 
 http://localhost:8000/ で見ることができます．
@@ -151,65 +151,29 @@ Github Actions の設定ファイルは `.github/workflows/manual.yml` です．
 コンテンツデータは，src/pages に入っているマークダウンファイルです．
 
 ```
-├── cms
-│   ├── cms.js
-│   └── preview-templates
-│       ├── AwardsPagePreview.js
-│       ├── BlogPostPreview.js
-│       └── RecommendationsPagePreview.js
-├── components
-│   ├── BlogRoll.js
-│   ├── Content.js
-│   ├── Footer.js
-│   ├── Layout.js
-│   ├── Navbar.js
-│   ├── PreviewCompatibleImage.js
-│   ├── SiteMetadata.js
-│   ├── all.sass
-│   └── seo.js
-├── images
-│   ├── gatsby-icon.png
-│   └── profile-pic.png
-├── img
-│   ├── cslogo.svg
-│   ├── github-icon.svg
-│   ├── home-jumbotron.jpg
-│   ├── logo.svg
-│   └── social
-│       ├── facebook.svg
-│       ├── instagram.svg
-│       ├── twitter.svg
-│       ├── vimeo.svg
-│       └── youtube.svg
-├── pages
-│   ├── 404.js
-│   ├── awards
-│   │   └── index.md
-│   ├── contact
-│   │   └── index.js
-│   ├── index.md
-│   ├── news
-│   │   ├── 2020-11-01-Recommended-Presentations-by-Editorial-Board.md
-│   │   ├── 2020-12-1-2020-Fall-Recommended-Presentations-by-Editorial-Board.md
-│   │   ├── 2020-12-4-why-should-we-write-a-paper.md
-│   │   ├── 2021-04-08-ieice-transactions-and-comex-have-accepted-all-non-member-submission-since-april-1st.md
-│   │   ├── 2021-05-18-the-2021-first-editorial-board-meeting-was-held.md
-│   │   ├── 2021-10-5-Paper-Recommendation-System.md
-│   │   ├── 2021-11-01-Recommended-Presentations-by-Editorial-Board.md
-│   │   ├── 2021-6-24-2021-Spring-Recommended-Presentations-by-Editorial-Board.md
-│   │   ├── 2021-9-1-Be-A-Two-Way-Player.md
-│   │   └── index.js
-│   ├── recommendations
-│   │   └── index.md
-│   └── tags
-│       └── index.js
-└── templates
-    ├── awards-page.js
-    ├── blog-post.js
-    ├── default-page.js
-    ├── index-page.js
-    ├── recommendations.js
-    └── tags.js
+% cd src/pages 
+% tree
+├── 404.js
+├── about
+│   └── index.md
+├── committee
+│   └── index.md
+├── contact
+│   └── index.js
+├── contribution
+│   └── index.md
+├── index-login.txt
+├── index.md
+├── index_20240928.txt
+├── news
+│   ├── 20240912-Establishment-of-AA-ITS-has-been-approved.md
+│   ├── 20240930-1st-AA-ITS-Workshop.md
+│   └── index.js
+└── tags
+    └── index.js
+
+7 directories, 12 files
+
 ```
 
 ## コンテンツの修正
@@ -227,35 +191,38 @@ src/pages に新しいマークダウンファイルを追加してください�
 このとき，マークダウンファイルに記載のフォーマットは変更しないようにしてください．
 特に上段の Frontmatter の項目は src/templates/\*.js が参照しますので，コロン以降のみ変更するようにしてください．
 
-以下，src/news の 2021-9-1-Be-A-Two-Way-Player.md を例に説明します．
+以下，src/news の 20240930-1st-AA-ITS-Workshop.md を例に説明します．
 
 ファイル名がそのまま slug になります．たとえば，この例ですと，
 
-https://www.ieice.org/cs/cs-edit/en/news/2021-9-1-Be-A-Two-Way-Player/
+https://www.ieice.org/cs/aa-its/news/20240930-1st-AA-ITS-Workshop/
 
 となります．
 
-src/news/2021-9-1-Be-A-Two-Way-Player.md は以下のようになっています．
+src/news/20240930-1st-AA-ITS-Workshop.md は以下のようになっています．
 
 ```
 ---
 templateKey: blog-post
-title: Be a two-way player
-date: 2021-9-2T07:57:21.383Z
-description: "Welcome, ComSoc members!"
+title: 第1回研究会をcore塩尻で開催します
+date: 2024-09-30T09:00:10.000Z
+description: 2024年1２月5日(木) 13:30 ～6日(金) 13:00に長野研塩尻市にて　AA-ITS ワークショップ（第１回研究会）を開催します．
 featuredpost: true
-featuredimage: /img/ComMag-CS.jpg
+featuredimage: /img/AA-ITS-small.webp
 tags:
-  - 2021 Communication Magazine
-  - Be a two-way player
+  - AA-ITS Workshop
+  - 第１回研究会
 ---
 
-Do you know that many of the active members of the IEICE Communication Society are two-way players, like Shohei Ohtani?
+-  車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第1回研究会　の開催案内
+- 1st Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (AA-ITS Workshop)
 
-We are not only members of IEICE but also members of IEEE.
-We believe that belonging to both societies allows us to learn the unique essence of each, which is the starting point for originality and excellence in our research.
+実行委員長：　山里敬也　（名古屋大学）
 
-I know it sounds like a cliché, but diversity is the key to outstanding results.
+# 研究会の背景
+
+ITSスマートポールに代表される日本発の画期的な交通安全システム：AD/ADAS-ITSが、実用化一歩手前に来ています。このシステムは、交差点を見通せる場所にカメラやセンサなどを設置して車や自転車・歩行者に危険を知らせることによって、見通しの悪い交差点での事故を無くすことが期待されています。インフラ協調型のレベル４自動運転を実用化するためにもこのシステムに大きな期待がかかっていて、既に2010年代末から自治体主導で複数の地域でタクシーや地域バスを用いた実証実験が重ねられています。
+このAD/ADAS-ITSで２次的に得られる交差点や道路などの交通流量情報は、災害時の交通状況の把握や救急車・消防車など優先自動車の為の交通制御、更には住民や観光客の避難誘導にも有効であることから、自治体の消防局や関係部署で交通流量情報の活用や交通流量制御に向けた実証試験が2022年頃から行われ始めています。
 
 .....
 
@@ -285,13 +252,17 @@ News の場合は templateKey を blog-post と指定しています．なお，
 この例ですと
 
 ```
-Do you know that many of the active members of the IEICE Communication Society are two-way players, like Shohei Ohtani?
+-  車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第1回研究会　の開催案内
+- 1st Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (AA-ITS Workshop)
 
-We are not only members of IEICE but also members of IEEE.
-We believe that belonging to both societies allows us to learn the unique essence of each, which is the starting point for originality and excellence in our research.
+実行委員長：　山里敬也　（名古屋大学）
 
-I know it sounds like a cliché, but diversity is the key to outstanding results.
-．．．
+# 研究会の背景
+
+ITSスマートポールに代表される日本発の画期的な交通安全システム：AD/ADAS-ITSが、実用化一歩手前に来ています。このシステムは、交差点を見通せる場所にカメラやセンサなどを設置して車や自転車・歩行者に危険を知らせることによって、見通しの悪い交差点での事故を無くすことが期待されています。インフラ協調型のレベル４自動運転を実用化するためにもこのシステムに大きな期待がかかっていて、既に2010年代末から自治体主導で複数の地域でタクシーや地域バスを用いた実証実験が重ねられています。
+このAD/ADAS-ITSで２次的に得られる交差点や道路などの交通流量情報は、災害時の交通状況の把握や救急車・消防車など優先自動車の為の交通制御、更には住民や観光客の避難誘導にも有効であることから、自治体の消防局や関係部署で交通流量情報の活用や交通流量制御に向けた実証試験が2022年頃から行われ始めています。
+
+.....
 ```
 
 が本文になり，マークダウン形式で記載されています．
@@ -306,15 +277,3 @@ Github の main branch に push すると自動でスクリプトが走り，公
 
 面倒ですが，main branch とは異なる branch で作業することで，思わぬミスを防ぐことができますので安全です．
 
-# Netlify CMS でのデータの追加・修正・削除
-
-データの追加・修正・削除は [Netlify CMS](https://ieice-cs-edit.netlify.app/admin/#/collections/news)でもできます。
-
-Netlify CMS へアクセスすると以下のように表示されます。
-コンテンツの追加・修正・削除はここから行ってください。
-
-<img width="1090" alt="スクリーンショット 2021-11-11 15 30 11" src="https://user-images.githubusercontent.com/12372151/141249433-3147432a-d02f-4a12-891a-793b7e69a2b5.png">
-
-画像は上の「Media」ボタンを押下することで追加・修正・削除ができます。
-
-<img width="1072" alt="スクリーンショット 2021-11-11 15 34 22" src="https://user-images.githubusercontent.com/12372151/141249562-e72145dd-f3ab-4e28-88af-b8737c1a6a3e.png">
