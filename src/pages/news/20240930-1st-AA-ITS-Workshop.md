@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 第1回研究会をcore塩尻で開催します
 date: 2024-09-30T09:00:10.000Z
-description: 2024年1２月5日(木) 13:30 ～6日(金) 13:00に長野研塩尻市にて　AA-ITS ワークショップ（第１回研究会）を開催します．
+description: 2024年12月5日(木) 13:30 ～6日(金) 13:00に長野研塩尻市にて　AA-ITS ワークショップ（第１回研究会）を開催します．
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
