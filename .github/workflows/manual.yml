@@ -20,7 +20,7 @@ jobs:
       # レポジトリからの checkout を実行
       - uses: actions/checkout@v4
       # Node のセットアップ
-      - name: Use Node.js lts
+      - name: Use Node.js
         uses: actions/setup-node@v4
         with:
           # node-version: "latest"
