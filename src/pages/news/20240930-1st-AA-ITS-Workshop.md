@@ -99,5 +99,5 @@ ITSスマートポールに代表される日本発の画期的な交通安全�
 - 電子情報通信学会 AA-ITS 研究会
 
 # 後援
-- ITS Japan,
+- ITS Japan
 - IEEE ComSoc Tokyo Joint Chapter
