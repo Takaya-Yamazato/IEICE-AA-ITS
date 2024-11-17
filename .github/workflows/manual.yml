@@ -38,7 +38,7 @@ jobs:
       - name: rsync deployments
         uses: burnett01/rsync-deployments@5.2.1
         with:
-          switches: -avzr --delete --exclude="committee/.htaccess"
+          switches: -avzr --delete --exclude="committee/.htaccess PDF/"
           path: public/
           remote_path: ${{ secrets.REMOTE_PATH }}
           remote_host: ${{ secrets.REMOTE_HOST }}
