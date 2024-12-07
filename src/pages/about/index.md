@@ -5,7 +5,7 @@ description: AA-ITS研は電子情報通信学会通信ソサイエティに設�
 date: 2024-09-29T11:00:57.137Z
 ---
 
-### IEICE Technical Committee on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms
+### IEICE Ad Hoc Technical Committee on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms
 
 ### 英文略称：　AA-ITS
 
