@@ -148,7 +148,7 @@ const Footer = class extends React.Component {
                 </a>
                 <a
                   title="github"
-                  href="https://github.com/Takaya-Yamazato/IEICE-CS-edit"
+                  href="https://github.com/Takaya-Yamazato/IEICE-AA-ITS"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
