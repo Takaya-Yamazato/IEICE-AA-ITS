@@ -1,10 +1,6 @@
 // const siteUrl = process.env.URL || `https://www.ieice.org/cs/cs-edit/en/`;
 
 module.exports = {
-  // flags: {
-  //   DEV_SSR: true
-  // },
-  // pathPrefix: `~yamazato`,　//チェック用
   pathPrefix: `/cs/aa-its/`, // https://www.ieice.org/cs/aa-its/
   siteMetadata: {
     title: 'AA-ITS',
@@ -44,6 +40,12 @@ module.exports = {
         //   // Defaults to https://www.googletagmanager.com
         //   origin: "YOUR_SELF_HOSTED_ORIGIN",
         // },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://www.ieice.org/cs/aa-its/`,
       },
     },
     `gatsby-plugin-image`,
