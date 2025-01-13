@@ -6,6 +6,14 @@ import { kebabCase } from 'lodash'
 import Layout from '../components/Layout'
 import SeO from '../components/seo'
 
+export const Head = () => (
+  <>
+    <title>AA-ITS|お知らせ（イベント情報）</title>
+    <meta name="description" content="AA-ITS特別研専に関するイベント情報などをお知らせします．" />
+  </>
+)
+
+
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`

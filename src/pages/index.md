@@ -10,7 +10,7 @@ description: "AA-ITS研究会では、先進的な自動車・交通技術を出
 
 # 車載ICTとAD/ADAS-ITS インフラを核とする地域ICTプラットフォームに関する特別研究専門委員会 （AA-ITS研究会）
 
-## IEICE Technical Committee on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms
+## IEICE Ad Hoc Technical Committees on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms
 
 ### 英文略称：　AA-ITS
 

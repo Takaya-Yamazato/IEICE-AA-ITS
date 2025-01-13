@@ -1,9 +1,16 @@
 import React from 'react'
 //import { graphql } from "gatsby"
 import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
+// import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
+
+export const Head = () => (
+  <>
+    <title>AA-ITS|タグ</title>
+    <meta name="description" content="AA-ITS特別研専委員会のタグのページです．" />
+  </>
+)
 
 const TagsPage = ({
   data: {
@@ -15,7 +22,7 @@ const TagsPage = ({
 }) => (
   <Layout>
     <section className="section">
-      <Helmet title={`Tags | ${title}`} />
+      {/* <Helmet title={`Tags | ${title}`} /> */}
       <div className="container content">
         <div className="columns">
           <div

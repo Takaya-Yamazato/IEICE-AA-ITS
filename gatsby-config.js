@@ -94,7 +94,7 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-react-helmet`,
+    // `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     {
       resolve: `gatsby-plugin-purgecss`, // purges all unused/unreferenced css rules

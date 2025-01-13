@@ -3,6 +3,14 @@ import { useStaticQuery, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import SeO from '../components/seo'
 
+export const Head = () => (
+  <>
+    <title>AA-ITS|AA-ITS研とは</title>
+    <meta name="description" content="AA-ITS研は電子情報通信学会通信ソサイエティに設置を認められた特別研究会で，活動期間は2024年10月から2027年3月までです．" />
+  </>
+)
+
+
 export default function About() {
   const data = useStaticQuery(graphql`
     query AboutQuery {
@@ -59,3 +67,4 @@ export default function About() {
     </Layout>
   )
 }
+

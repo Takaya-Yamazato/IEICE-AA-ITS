@@ -1,8 +1,13 @@
 import React from 'react'
-// import PropTypes from 'prop-types'
-import { useStaticQuery, graphql } from 'gatsby'
+  import { useStaticQuery, graphql } from 'gatsby'
 import Layout from '../components/Layout'
-// import Content, { HTMLContent } from '../components/Content'
+
+export const Head = () => (
+  <>
+    <title>AA-ITS|専門委員会</title>
+    <meta name="description" content="AA-ITS特別研専委員会のページです．" />
+  </>
+)
 
 export default function CommitteePage() {
   const data = useStaticQuery(graphql`

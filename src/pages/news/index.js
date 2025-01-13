@@ -3,6 +3,13 @@ import * as React from 'react'
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
 
+export const Head = () => (
+  <>
+    <title>AA-ITS|お知らせ（イベント情報）</title>
+    <meta name="description" content="AA-ITS特別研専に関するイベント情報などをお知らせします．" />
+  </>
+)
+
 export default class BlogIndexPage extends React.Component {
   render() {
     return (

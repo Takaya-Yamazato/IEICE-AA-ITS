@@ -7,6 +7,13 @@ import BlogRoll from '../components/BlogRoll'
 // import { GatsbyImage, getImage } from "gatsby-plugin-image"
 // import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
+export const Head = () => (
+  <>
+    <title>IEICE AA-ITS</title>
+    <meta name="description" content="AA-ITS特別研専のトップページです．" />
+  </>
+)
+
 const IndexPageTemplate = ({ data }) => (
   <Layout>
     <SeO

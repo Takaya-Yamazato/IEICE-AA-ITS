@@ -1,7 +1,7 @@
 import * as React from 'react'
 // import { Link, withPrefix } from "gatsby"
 import { withPrefix } from 'gatsby'
-import { Helmet } from 'react-helmet'
+// import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 // import AuthNavBar from "./authNavBar";
@@ -14,7 +14,7 @@ const TemplateWrapper = ({ children }) => {
 
   return (
     <div>
-      <Helmet>
+      {/* <Helmet> */}
         <html lang="ja" data-theme="light" />
         <title>{title}</title>
         <meta name="description" content={description} />
@@ -51,7 +51,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
-      </Helmet>
+      {/* </Helmet> */}
       <Navbar />
       {/* <AuthNavBar /> */}
       <div>{children}</div>
