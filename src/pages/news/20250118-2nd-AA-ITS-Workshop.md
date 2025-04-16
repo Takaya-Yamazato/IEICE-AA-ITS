@@ -59,10 +59,6 @@ AA-ITS・角幹事の招待講演も予定されてます．
 
 詳細は追ってお知らせいたしますので，みなさま，どうぞご予定ください．
 
-## 参考
-
-- [第1回研究会プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=2e7c8111ab800b7bff0bb337c6a593b4ea2f624d9354bbde5c9da51697858083&tgid=IEICE-AA-ITS)
-
 # 会場
 - 豊田市様の施設をお借りする予定で調整しております．決まり次第お知らせいたします．
 
@@ -91,6 +87,10 @@ AA-ITS・角幹事の招待講演も予定されてます．
 # 問い合わせ
 
 ご不明な点は，どうぞ遠慮無く，[AA-ITS研　お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfsXtCpHGt6pd07WTV9OcY2Y3oVt7-z1Vn0IRvxzSJPDygOSQ/viewform)よりお問い合わせください．
+
+## 参考
+
+- [第1回研究会プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=2e7c8111ab800b7bff0bb337c6a593b4ea2f624d9354bbde5c9da51697858083&tgid=IEICE-AA-ITS)
 
 # 主催
 - [電子情報通信学会 AA-ITS 研究会](https://www.ieice.org/cs/aa-its/)
