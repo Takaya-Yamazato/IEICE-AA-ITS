@@ -6,7 +6,7 @@
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "bulma": "1.0.3",
-    "gatsby": "^5.14.1",
+    "gatsby": "^5.14.3",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-canonical-urls": "^5.14.0",
     "gatsby-plugin-google-analytics": "^5.14.0",
@@ -29,9 +29,9 @@
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "sass": "^1.83.4",
-    "sass-loader": "^16.0.4",
-    "uuid": "^11.0.5"
+    "sass": "^1.86.3",
+    "sass-loader": "^16.0.5",
+    "uuid": "^11.1.0"
   },
   "keywords": [
     "gatsby"
@@ -48,7 +48,7 @@
     "npm package update": "ncu -u && rm -rf node_modules yarn.lock package.lock && npm install && npm run build"
   },
   "devDependencies": {
-    "prettier": "^3.4.2"
+    "prettier": "^3.5.3"
   },
   "engines": {
     "node": ">= v20.18.0"
