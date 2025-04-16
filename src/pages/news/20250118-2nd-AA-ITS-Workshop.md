@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 第2回研究会を豊田市で開催します
+title: 第2回研究会を豊田市で開催します（7/4に変更）
 date: 2025-1-18T09:00:10.000Z
-description: 2025年5月30日（金）10－17時に愛知県豊田市で AA-ITS ワークショップ（第2回研究会）を開催します．
+description: 2025年7月4日（金）に愛知県豊田市で AA-ITS ワークショップ（第2回研究会）を開催します．
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
@@ -10,7 +10,7 @@ tags:
   - 第2回研究会
 ---
 
-日程が決まりました！
+rgb(255,0,0)日程が変更になりましたのでご注意ください！
 
 まだ案の段階ですが，概ね以下のようなプログラムを考えています．
 
