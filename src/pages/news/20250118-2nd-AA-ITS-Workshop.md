@@ -15,7 +15,7 @@ tags:
 </span>
 <br />
 
-なお，前日（7月3日（木）には名古屋大学にてITS研も開催されます．
+なお，前日（7月3日（木）には名古屋大学にて[ITS研](https://ken.ieice.org/ken/program/index.php?tgid=IEICE-ITS)も開催されます．
 こちらへのご投稿・ご参加も，ぜひ，ご検討ください．
 AA-ITS・角幹事の招待講演も予定されてます．
 
