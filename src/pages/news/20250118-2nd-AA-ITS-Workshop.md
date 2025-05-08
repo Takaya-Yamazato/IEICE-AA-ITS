@@ -61,7 +61,7 @@ AA-ITS・角幹事の招待講演も予定されてます．
 
 # 会場
 - [豊田市・末野原交流館　大会議室](https://ph-toyota.jp/guide/suenohara/)
-  - [地図はこちら]((https://maps.app.goo.gl/H5MBv5ne4XDLCghj6))
+  - [地図はこちら](https://maps.app.goo.gl/H5MBv5ne4XDLCghj6)
   - 〒470-1201　愛知県豊田市豊栄町11-36-1
   - TEL：0565-26-6200
   - アクセス・最寄り駅：愛知環状鉄道「末野原駅」下車徒歩５分
