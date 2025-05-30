@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 7月4日に第2回研究会を豊田市で開催します（参加申込を6月13日（金）まで延長します）
+title: 2nd AA-ITS ワークショップ（第2回研究会）
 date: 2025-1-18T09:00:10.000Z
-description: 2025年7月4日（金）に愛知県豊田市で AA-ITS ワークショップ（第2回研究会）を開催します．
+description: 2025年7月4日（金）に愛知県豊田市で AA-ITS ワークショップ（第2回研究会）を開催します．ITSスマートポールの見学会もありますので，どうぞ奮ってご参加下さい．
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:

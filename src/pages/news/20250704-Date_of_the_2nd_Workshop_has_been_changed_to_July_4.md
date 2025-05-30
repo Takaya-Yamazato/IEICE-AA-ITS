@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 第2回研究会の開催日が7月4日に変更になりました
 date: 2025-4-14T09:00:10.000Z
 description: 既にご予定くださっている皆様へはご迷惑をおかけします．
-featuredpost: true
+featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
 tags:
   - AA-ITS Workshop

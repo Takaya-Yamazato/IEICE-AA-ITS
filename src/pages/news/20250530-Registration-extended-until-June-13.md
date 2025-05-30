@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: 第2回研究会の参加申込締切を 6月13日（金）まで延長します
-date: 2025-4-14T09:00:10.000Z
+date: 2025-5-30T09:00:10.000Z
 description: 参加申し込みがまだな方はぜひお申し込みください．
-featuredpost: true
+featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
 tags:
   - AA-ITS Workshop

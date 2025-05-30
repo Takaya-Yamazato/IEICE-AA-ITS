@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 研専運営会議でAA-ITS特別研専の設置が認められました
 date: 2024-09-12T09:00:10.000Z
 description: 日本工業大学にて開催された信学会ソサイエティ大会中に通信ソサイエティ・研専運営会議が開催されました．そこで，AA-ITS特別研専の設置について審議があり，全会一致で設置が認められました．
-featuredpost: true
+featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
 tags:
   - AA-ITS
