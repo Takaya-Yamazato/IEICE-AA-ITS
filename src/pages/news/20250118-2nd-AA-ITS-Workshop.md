@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 第2回研究会を豊田市で開催します（7/4に変更）
+title: 7月4日に第2回研究会を豊田市で開催します（参加申込を6月13日（金）まで延長します）
 date: 2025-1-18T09:00:10.000Z
 description: 2025年7月4日（金）に愛知県豊田市で AA-ITS ワークショップ（第2回研究会）を開催します．
 featuredpost: true
@@ -13,7 +13,7 @@ tags:
 <span style="color: red; ">
 参加申込締切を 2025年6月13日（金） まで延長いたします！
 </span>
-<br />
+<br /><br />
 
 なお，前日（7月3日（木）には名古屋大学にて[ITS研](https://ken.ieice.org/ken/program/index.php?tgid=IEICE-ITS)も開催されます．
 こちらへのご投稿・ご参加も，ぜひ，ご検討ください．
