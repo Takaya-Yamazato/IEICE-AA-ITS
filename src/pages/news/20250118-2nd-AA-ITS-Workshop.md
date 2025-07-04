@@ -24,7 +24,7 @@ AA-ITS・角幹事の招待講演も予定されてます．
 
 # [プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=f04b0e37b61086053d42e9a90d1cbdf7502938587366f24243f2809473c56b63&tgid=IEICE-AA-ITS)
 
-まだ案の段階ですが，概ね以下のような[プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=f04b0e37b61086053d42e9a90d1cbdf7502938587366f24243f2809473c56b63&tgid=IEICE-AA-ITS)を考えています．
+<!--まだ案の段階ですが，概ね以下のような[プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=f04b0e37b61086053d42e9a90d1cbdf7502938587366f24243f2809473c56b63&tgid=IEICE-AA-ITS)を考えています．-->
 
 ## 午前の部
 - 10:00-10:10	山里委員長のご挨拶（第1回の振り返りと研究会の目的など）	
