@@ -14,9 +14,11 @@ tags:
 多数ご参加頂き誠にありがとうございました．
 <!--![会場の様子](img/IMG_6298.jpg "会場の様子")　-->
 
-<img width="300" src="img/IMG_6298.jpg">会場の様子 <BR>
-<img width="300" src="img/IMG_6313.jpg">大交差点におけるスマートポール見学<BR>
-<img width="300" src="img/IMG_6320.jpg">住宅街におけるスマートポール見学<BR>
+<img width="300" src="img/IMG_6298.jpg">会場の様子
+
+<img width="300" src="img/IMG_6313.jpg">大交差点におけるスマートポール見学
+
+<img width="300" src="img/IMG_6320.jpg">住宅街におけるスマートポール見学
 
 <!--
 <table align="center" width="300">
