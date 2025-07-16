@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 【報告】第2回研究会を開催しました．
 date: 2025-7-17T09:00:10.000Z
-description: 第2回研究会が無事に終わりました．ご報告．
+description: 第2回研究会が無事に終わりました．ご報告．パネラー資料を無料公開中．
 featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
 tags:
