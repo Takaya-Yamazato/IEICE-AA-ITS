@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 【報告】第2回研究会を開催しました．
 date: 2025-7-17T09:00:10.000Z
-description: githubで記事の追加．写真のあげ方勉強．
+description: 第2回研究会が無事に終わりました．ご報告．
 featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
 tags:
