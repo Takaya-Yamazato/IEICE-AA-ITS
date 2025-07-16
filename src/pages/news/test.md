@@ -13,7 +13,7 @@ tags:
 2025年7月4日（金）に豊田市・末野原交流館　大会議室にて第2回研究会を開催しました．
 多数ご参加頂き誠にありがとうございました．
 <!--![会場の様子](img/IMG_6298.jpg "会場の様子")　-->
-<table align="center">
+<table align="center" width="300">
   <tr>
     <td align="center"><img width="300" src="img/IMG_6298.jpg"></td> <td align="center"><img width="300" src="img/IMG_6313.jpg"></td> <td align="center"><img width="300" src="img/IMG_6320.jpg"></td>
   </tr>
