@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【報告】第2回研究会を開催しました．
-date: 2025-7-17T09:00:10.000Z
+date: 2025-7-29T09:00:10.000Z
 description: 第2回研究会が無事に終わりました．ご報告．パネラー資料を無料公開中．
 featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
@@ -20,18 +20,6 @@ tags:
 
 <img width="300" src="img/IMG_6320.jpg"> 住宅街におけるスマートポール見学
 
-<!--
-<table align="center" width="300">
-  <tr>
-    <td align="center"><img width="300" src="img/IMG_6298.jpg"></td> <td align="center"><img width="300" src="img/IMG_6313.jpg"></td> <td align="center"><img width="300" src="img/IMG_6320.jpg"></td>
-  </tr>
-  <tr>
-    <td align="center"> 会場の様子 </td> <td align="center">大交差点におけるスマートポール見学</td><td align="center">住宅街におけるスマートポール見学</td>
-  </tr>
-</table>
--->
-
-<!-- ![テスト](0.jpeg) -->
 
 プログラムは[第2回研究会](/news/20250118-2nd-AA-ITS-Workshop/)のページをご覧ください．
 
