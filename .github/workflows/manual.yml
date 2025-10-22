@@ -35,7 +35,7 @@ jobs:
       - name: List output files
         run: ls -laFG
       # rsync の設定 (www11.ieice.org)
-      - name: rsync deployments
+      - name: rsync deployments to www11.ieice.org (new server)
         uses: burnett01/rsync-deployments@5.2.1
         with:
           switches: -avzr --delete --exclude="committee/.htaccess" --exclude="PDF/" --exclude="FREEPDF/" --exclude="program/"
@@ -46,7 +46,7 @@ jobs:
           remote_user: ${{ secrets.REMOTE_USER }}
           remote_key: ${{ secrets.ID_ECDSA_FREEDOM }}
       # rsync の設定 (www1.ieice.org)旧サーバ
-      - name: rsync deployments
+      - name: rsync deployments to www1.ieice.org (old server)
         uses: burnett01/rsync-deployments@5.2.1
         with:
           switches: -avzr --delete --exclude="committee/.htaccess" --exclude="PDF/" --exclude="FREEPDF/" --exclude="program/"
