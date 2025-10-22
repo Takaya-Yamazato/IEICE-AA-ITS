@@ -7,7 +7,7 @@ featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
 - 車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第3回研究会の開催案内
-- 2nd Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (3rd AA-ITS Workshop)
+- 3rd Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (3rd AA-ITS Workshop)
 ---
 
 同日のお昼休みに専門委員会を開催します．
