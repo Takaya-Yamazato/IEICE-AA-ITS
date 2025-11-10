@@ -29,6 +29,6 @@ tags:
 こちらからどうぞ（https://www.ieice.org/cs/aa-its/program/program20250704.html)
 
 次回は2025年12月5日（金）に機械振興会館にて開催します．<BR>
-奮ってご参加下さい．詳細は[こちらから](news/20251205-AA-ITS-Workshop.md)
+どうぞ，奮ってご参加下さい．詳細は[こちらから](news/20251205-AA-ITS-Workshop.md)
 
 
