@@ -96,7 +96,6 @@ tags:
 - [第2回研究会プログラム](https://ken.ieice.org/ken/program/index.php?mode=program&tgs_regid=f04b0e37b61086053d42e9a90d1cbdf7502938587366f24243f2809473c56b63&tgid=AA-ITS&layout=&lang=)
 # 主催
 - [電子情報通信学会 AA-ITS 研究会](https://www.ieice.org/cs/aa-its/)
-- [電子情報通信学会 ITS 研究会](https://www.ieice.org/cs/aa-its/)
 
 # 後援
 <!-- - [ITS Connect推進協議会](https://www.itsconnect-pc.org/)
