@@ -44,6 +44,10 @@ tags:
 - 15:30-16:30 
   - 松本 修一 （文教大学）
 
+### 名刺交換会
+- 17:00- 
+
+
 # 会場
 - [機械振興会館（電子情報通信学会）](https://www.ieice.org/jpn_r/index.html)
   - [地図はこちら](https://www.ieice.org/jpn_r/access.html)
