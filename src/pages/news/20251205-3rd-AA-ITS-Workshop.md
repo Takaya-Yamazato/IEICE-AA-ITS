@@ -80,14 +80,15 @@ tags:
 - 会員：2,000円
 - 非会員：3,000円
 - 学生：1,000円
-- 研究会の当日に現地にて現金にてお支払いください．<br />
+- 研究会当日，現地にて現金でお支払いください．<br />
 おつりの無いようにお願いします．
 
 
 
 # 問い合わせ
 
-ご不明な点は，どうぞ遠慮無く，[AA-ITS研　お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfsXtCpHGt6pd07WTV9OcY2Y3oVt7-z1Vn0IRvxzSJPDygOSQ/viewform)よりお問い合わせください．
+ご不明な点は，どうぞ遠慮無く，[AA-ITS研　お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfsXtCpHGt6pd07WTV9OcY2Y3oVt7-z1Vn0IRvxzSJPDygOSQ/viewform)
+よりお問い合わせください．
 
 ## 参考
 
