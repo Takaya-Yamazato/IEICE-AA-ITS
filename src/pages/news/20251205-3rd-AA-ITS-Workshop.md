@@ -1,4 +1,4 @@
-<img width="939" height="284" alt="image" src="https://github.com/user-attachments/assets/9dc1a7d2-0e8a-4d2f-a127-93a469b42461" />---
+---
 templateKey: blog-post
 title: 3rd AA-ITS ワークショップ（第3回研究会）
 date: 2025-12-5T09:00:10.000Z
