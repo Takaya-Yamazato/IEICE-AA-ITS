@@ -43,9 +43,9 @@ tags:
 ### 招待講演（IEEE Engineer Spotlight 同時開催）
 - 15:30-16:30 
   - 松本 修一 （文教大学）「交通事故から産まれた自転車研究」
-<!--    - 主催：IEEE Japan Council Educational Activities Group
+    - 主催：IEEE Japan Council Educational Activities Group
     - 共催：IEEE Intelligent Transportation Systems Society Tokyo Chapter
-    - 後援：電子情報通信学会 車載ICTとAD/ADAS-ITS インフラを核とする地域ICTプラットフォームに関する研究会, 電子情報通信学会 ITS研究専門委員会, 電気学会 産業応用部門 ITS技術委員会，情報処理学会 高度交通システムとスマートコミュニティ研究会, 自転車活用推進研究会 -->
+    - 後援：電子情報通信学会 車載ICTとAD/ADAS-ITS インフラを核とする地域ICTプラットフォームに関する研究会, 電子情報通信学会 ITS研究専門委員会, 電気学会 産業応用部門 ITS技術委員会，情報処理学会 高度交通システムとスマートコミュニティ研究会, 自転車活用推進研究会
 
 ### 名刺交換会
 - 17:00- 
