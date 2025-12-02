@@ -58,7 +58,7 @@ tags:
 - [機械振興会館（電子情報通信学会）](https://www.ieice.org/jpn_r/index.html)
   - [地図はこちら](https://www.ieice.org/jpn_r/access.html)
   - [Google Map](https://www.google.com/maps/search/%E6%A9%9F%E6%A2%B0%E6%8C%AF%E8%88%88%E4%BC%9A%E9%A4%A8/@35.6598771,139.7427062,17z/data=!3m1!4b1!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D)
-  - 〒105-0011　東京都港区芝公園3-5-8 機械振興会館内 <s>1F</s> 6D-4会議室
+  - 〒105-0011　東京都港区芝公園3-5-8 機械振興会館内 <s>1F</s> 6階　6D-4会議室
   - TEL：03-3433-6691 / FAX：03-3433-6659
   - 最寄りの交通機関
     - 東京メトロ日比谷線・・・・・・・神谷町駅下車　徒歩8分
