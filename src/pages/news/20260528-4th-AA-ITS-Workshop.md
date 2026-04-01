@@ -41,7 +41,7 @@ https://forms.gle/pYMAV7rjjoJSvYEB6
 
 # ポスターセッションについて（予定）
 一般講演発表としてポスターセッションを予定しています．
-発表申し込みは[研究会システム](https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS)で登録ください．
+発表申し込みは<a href="https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS" target="_blank" rel="noopener noreferrer">研究会システム</a>で登録ください．
 
 - ポスター形式による発表
 - 発表言語は英語
