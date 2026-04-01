@@ -10,7 +10,7 @@ tags:
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (3rd AA-ITS Workshop)
 ---
 
-# 【日時】 5月28日～29日
+# 【日時】 2026年5月28日～29日
 # 【会場】財団法人資訊工業策進会（III）building  
 台北市民生東路4段133号14階
 # 【参加費】\30,000 JPY（予定）
