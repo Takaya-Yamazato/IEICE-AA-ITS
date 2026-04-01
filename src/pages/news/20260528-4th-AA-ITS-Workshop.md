@@ -1,4 +1,4 @@
-<img width="786" height="110" alt="image" src="https://github.com/user-attachments/assets/a1d0fd25-2bd4-4e30-b48a-40d50d00d33a" />---
+---
 templateKey: blog-post
 title: 4th AA-ITS ワークショップ（第4回研究会）
 date: 2026-5-28T09:00:10.000Z
@@ -26,7 +26,7 @@ tags:
 
 # 参加申し込み（4月24日〆切）
 [Google form](https://forms.gle/pYMAV7rjjoJSvYEB6)からご登録ください．  
-
+<a href="https://forms.gle/pYMAV7rjjoJSvYEB6" target="_blank">Google form</a>からご登録ください．  
 
 ※formの利用に問題がある場合はメール（宛先：aa-its-core [at] mail.ieice.org）で以下の内容をご連絡ください．
 - 氏名，ご所属，メールアドレス
