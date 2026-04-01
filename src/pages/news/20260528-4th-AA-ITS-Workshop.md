@@ -21,7 +21,7 @@ tags:
 - ポスターセッション（予定）
 - 意見交換会
 
-## 2日目（5月2９日（金））
+## 2日目（5月29日（金））
 - スマートポール見学会
 
 # 参加申し込み（4月24日〆切）
@@ -40,6 +40,8 @@ https://forms.gle/pYMAV7rjjoJSvYEB6
 
 # ポスターセッションについて（予定）
 一般講演発表としてポスターセッションを予定しています．
+発表申し込みは[研究会システム](https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS)で登録ください．
+
 - ポスター形式による発表
 - 発表言語は英語
-- A4 1枚の予稿を別途提出
+- A4 1枚～6枚の予稿（[研究会スタイルファイルを利用ください](https://www.ieice.org/jpn_r/event/kenkyukai/index.html)）を別途提出
