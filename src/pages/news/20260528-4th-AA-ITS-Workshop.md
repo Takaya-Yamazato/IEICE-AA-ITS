@@ -26,8 +26,8 @@ tags:
 - スマートポール見学会
 
 # 参加申し込み（4月24日〆切）
-以下のGoogle formからご登録ください．  
-https://forms.gle/pYMAV7rjjoJSvYEB6
+[Google form](https://forms.gle/pYMAV7rjjoJSvYEB6)からご登録ください．  
+
 
 ※formの利用に問題がある場合はメール（宛先：aa-its-core [at] mail.ieice.org）で以下の内容をご連絡ください．
 - 氏名，ご所属，メールアドレス
@@ -41,7 +41,7 @@ https://forms.gle/pYMAV7rjjoJSvYEB6
 
 # ポスターセッションについて（予定）
 一般講演発表としてポスターセッションを予定しています．
-発表申し込みは<a href="https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS" target="_blank" rel="noopener noreferrer">研究会システム</a>で登録ください．
+発表申し込みは[研究会システム](https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS)で登録ください．
 
 - ポスター形式による発表
 - 発表言語は英語
