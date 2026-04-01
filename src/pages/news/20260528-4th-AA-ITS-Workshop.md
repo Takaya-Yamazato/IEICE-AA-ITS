@@ -1,4 +1,4 @@
----
+<img width="786" height="110" alt="image" src="https://github.com/user-attachments/assets/a1d0fd25-2bd4-4e30-b48a-40d50d00d33a" />---
 templateKey: blog-post
 title: 4th AA-ITS ワークショップ（第4回研究会）
 date: 2026-5-28T09:00:10.000Z
@@ -11,7 +11,8 @@ tags:
 ---
 
 # 【日時】 5月28日～29日
-# 【会場】 台北市民生東路4段133号14階
+# 【会場】 財団法人資訊工業策進会（III）building  
+台北市民生東路4段133号14階
 # 【参加費】\30,000 JPY（予定）
 # 【プログラム（予定）】
 ## 1日目（5月28日（木））
@@ -25,7 +26,7 @@ tags:
 - スマートポール見学会
 
 # 参加申し込み（4月24日〆切）
-以下のGoogle formからご登録ください．
+以下のGoogle formからご登録ください．  
 https://forms.gle/pYMAV7rjjoJSvYEB6
 
 ※formの利用に問題がある場合はメール（宛先：aa-its-core [at] mail.ieice.org）で以下の内容をご連絡ください．
