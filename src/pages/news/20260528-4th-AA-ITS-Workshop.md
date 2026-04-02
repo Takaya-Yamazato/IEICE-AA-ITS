@@ -13,7 +13,7 @@ tags:
 
 # 【日時】 2026年5月28日～29日
 # 【会場】財団法人資訊工業策進会（III）building  
-## （台北市民生東路4段133号14階）
+## （台湾台北市民生東路4段133号14階）
 # 【参加費】\30,000 JPY（予定）
 # 【プログラム（予定）】
 ## 1日目（5月28日（木））
@@ -27,7 +27,6 @@ tags:
 - スマートポール見学会
 
 # 参加申し込み（4月24日〆切）
-[Google form](https://forms.gle/pYMAV7rjjoJSvYEB6)からご登録ください．  
 <a href="https://forms.gle/pYMAV7rjjoJSvYEB6" target="_blank">Google form</a>からご登録ください．  
 
 ※formの利用に問題がある場合はメール（宛先：aa-its-core [at] mail.ieice.org）で以下の内容をご連絡ください．
@@ -42,8 +41,8 @@ tags:
 
 # ポスターセッションについて（予定）
 一般講演発表としてポスターセッションを予定しています．
-ご発表いただける方は，上記参加申し込みに加え，発表を[研究会システム](https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS)で登録ください．
+ご発表いただける方は，上記参加申し込みに加え，発表を<a href="https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS" target="_blank">研究会システム</a>で登録ください．
 
 - ポスター形式による発表
 - 発表言語は英語
-- A4 1枚～6枚の予稿（[研究会スタイルファイルを利用ください](https://www.ieice.org/jpn_r/event/kenkyukai/index.html)）を別途提出
+- A4 1枚～6枚の予稿（<a href="https://www.ieice.org/jpn_r/event/kenkyukai/index.html" target="_blank">研究会スタイルファイル</a>を利用ください）を別途提出
