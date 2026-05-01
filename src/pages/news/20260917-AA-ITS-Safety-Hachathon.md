@@ -33,9 +33,10 @@ tags:
 ## 参考資料
 - [ITSスマートポール資料（ITS Japan 協調型ITS委員会より）](https://www.its-jp.org/katsudou/co-op/smartpole_materials/)
 
+
 --- 
 # スポンサー
 ##  ・トヨタ自動車株式会社
 --- 
-
+![ITSスマートポール多角利用イメージ](/img/ITS-smart-pole.png)
 
