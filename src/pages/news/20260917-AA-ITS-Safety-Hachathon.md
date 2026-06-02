@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: スマートポール・セーフティハッカソン2026
 date: 2026-09-17T09:00:10.000Z
-description: 2026年9月17日（木）、18日（金）に東京（場所は追ってお知らせします）にてスマートポール・セーフティハッカソン2026を開催します．どうぞ奮ってご参加下さい．
+description: 2026年9月17日（木）、18日（金）にスマートポール・セーフティハッカソン2026を開催します．どうぞ奮ってご参加下さい．
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
