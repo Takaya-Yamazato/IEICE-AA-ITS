@@ -6,7 +6,7 @@ description: 第2回研究会が無事に終わりました．ご報告．パネ
 featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
 tags:
-  - AA-ITS Workshop
+  - 2nd AA-ITS Workshop
   - 第2回研究会
 ---
 

@@ -6,7 +6,7 @@ description: 既にご予定くださっている皆様へはご迷惑をおか�
 featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
 tags:
-  - AA-ITS Workshop
+  - 2nd AA-ITS Workshop
   - 第2回研究会
 ---
 

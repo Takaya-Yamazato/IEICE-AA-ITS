@@ -6,7 +6,7 @@ description: 2024年12月5日(木) 13:30 ～6日(金) 13:00に長野研塩尻市
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
-  - AA-ITS Workshop
+  - 1st AA-ITS Workshop
   - 第１回研究会
 ---
 
