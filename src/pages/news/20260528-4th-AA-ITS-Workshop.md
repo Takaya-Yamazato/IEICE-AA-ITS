@@ -30,7 +30,7 @@ tags:
 - スマートポール見学会
 
 # 参加申し込み（xx月xx日〆切）
-次回アナウンスまでしばらくお待ちください．
+次回アナウンスまでしばらくお待ちください．<BR>
 <a href="https://forms.gle/pYMAV7rjjoJSvYEB6" target="_blank">~~Google form~~</a>からご登録ください．  
 
 ※formの利用に問題がある場合はメール（宛先：aa-its-core [at] mail.ieice.org）で以下の内容をご連絡ください．
