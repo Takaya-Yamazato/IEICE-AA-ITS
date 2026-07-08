@@ -10,26 +10,28 @@ tags:
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (4th AA-ITS Workshop)
 - 4th AA-ITS Workshop
 ---
-<h1>開催日延期</h1>
+[2026.07.08 update]
+<h1>開催日が５月から変更となりました</h1>
 
-# 【日時】 ~~2026年5月28日～29日~~ 延期となりました．9月以降を予定．
+# 【日時】2026年12月3日～4日 (updated)
 # 【会場】財団法人資訊工業策進会（III）building  
 ## （台湾台北市民生東路4段133号14階）
 # 【参加費（予定）】30,000 JPY（オンライン参加 3,000 JPY）
 　※オンライン参加について，現地視察，企業展示，デモなどのオンライン配信は致しません．研究会の一部のみの配信となりますこと，ご了承ください．
 # 【プログラム（予定）】
-## 1日目（~~5月28日（木）~~）
-- 招待講演（台湾3件、日本3件）
+## 1日目（12月3日（木））
+- 招待講演（台湾3件、日本3件程度）
 - パネルディスカッション
 - 企業展示
 - ポスターセッション（予定）
 - 意見交換会
 
-## 2日目（~~5月29日（金）~~）
+## 2日目（12月4日（金））
 - スマートポール見学会
 
-# 参加申し込み（~~4月24日〆切~~）
-<a href="https://forms.gle/pYMAV7rjjoJSvYEB6" target="_blank">Google form</a>からご登録ください．  
+# 参加申し込み（xx月xx日〆切）
+次回アナウンスまでしばらくお待ちください．
+<a href="https://forms.gle/pYMAV7rjjoJSvYEB6" target="_blank">~~Google form~~</a>からご登録ください．  
 
 ※formの利用に問題がある場合はメール（宛先：aa-its-core [at] mail.ieice.org）で以下の内容をご連絡ください．
 - 氏名，ご所属，メールアドレス
