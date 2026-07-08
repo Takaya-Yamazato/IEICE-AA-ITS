@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 4th AA-ITS ワークショップ（第4回研究会）＜開催延期＞
+title: 4th AA-ITS ワークショップ（第4回研究会）
 date: 2026-5-28T09:00:10.000Z
-description: 台北市で予定していた AA-ITS ワークショップ（第４回研究会）は延期となりました．新しい開催日程は決まり次第お知らせします．
+description: 延期となっていたAA-ITS ワークショップ（第４回研究会）＠台湾の開催日が決定しました
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
