@@ -32,6 +32,10 @@ tags:
 ## 説明会参加申し込み受付中
 [申し込みフォーム](https://forms.gle/ebBwknzMTgGRTbUv6)
 
+## ハッカソン本申込受付中
+[申し込みフォーム](https://forms.gle/11FyPon4yxEgRZbj7)
+
+
 ## スポンサー募集中
 詳細は[こちら](mailto:aa-its-wg-smachalle@mail.ieice.org)にお問い合わせください．
 
