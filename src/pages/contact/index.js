@@ -23,7 +23,7 @@ const ContactUsPage = () => (
                   <p>
                     <a
                       title="AA-ITS contact google form"
-                      href="https://docs.google.com/forms/d/e/1FAIpQLSfsXtCpHGt6pd07WTV9OcY2Y3oVt7-z1Vn0IRvxzSJPDygOSQ/viewform"
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSdDX0lxGiV7DWj5tgjfORbkZReYXFS2cTo-pYe4gARmw0FAcg/viewform?usp=dialog"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
