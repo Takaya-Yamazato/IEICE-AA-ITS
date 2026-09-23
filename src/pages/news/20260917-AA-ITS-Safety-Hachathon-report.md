@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 【報告】第2回研究会を開催しました．
-date: 2025-7-29T09:00:10.000Z
-description: 第2回研究会が無事に終わりました．ご報告．パネラー資料を無料公開中．
+title: 【報告】スマートポール・セーフティハッカソン2026を開催しました．
+date: 2026-9-18T09:00:10.000Z
+description: スマートポール・セーフティハッカソン2026が無事に終わりました．ご報告．
 featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
 tags:
