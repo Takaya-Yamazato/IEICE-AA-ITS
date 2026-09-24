@@ -1,4 +1,4 @@
-<img width="485" height="91" alt="image" src="https://github.com/user-attachments/assets/7223fefd-c7bf-458b-8c85-77865224375b" />---
+---
 templateKey: blog-post
 title: 【報告】スマートポール・セーフティハッカソン2026を開催しました．
 date: 2026-9-18T09:00:10.000Z
