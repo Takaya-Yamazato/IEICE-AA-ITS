@@ -14,20 +14,20 @@ tags:
 多数ご参加頂き誠にありがとうございました．
 <!--![会場の様子](img/IMG_6298.jpg "会場の様子")　-->
 
-<img width="300" src="img/IMG_4678.jpg">
-<img width="300" src="img/IMG_4683.jpg">
+<img width="300" src="img/20260918/IMG_4678.jpg">
+<img width="300" src="img/20260918/IMG_4683.jpg">
 
-<img width="300" src="img/IMG_4692.jpg">
-<img width="300" src="img/IMG_4697.jpg">
+<img width="300" src="img/20260918/IMG_4692.jpg">
+<img width="300" src="img/20260918/IMG_4697.jpg">
 
-<img width="300" src="img/IMG_4700.jpg">
-<img width="300" src="img/IMG_4710.jpg">
+<img width="300" src="img/20260918/IMG_4700.jpg">
+<img width="300" src="img/20260918/IMG_4710.jpg">
 
-<img width="300" src="img/IMG_4712.jpg">
-<img width="300" src="img/IMG_4715.jpg">
+<img width="300" src="img/20260918/IMG_4712.jpg">
+<img width="300" src="img/20260918/IMG_4715.jpg">
 
-<img width="300" src="img/IMG_4721.jpg">
-<img width="300" src="img/IMG_4723.jpg">
+<img width="300" src="img/20260918/IMG_4721.jpg">
+<img width="300" src="img/20260918/IMG_4723.jpg">
 
 
 プログラムは[スマートポール・セーフティハッカソン2026](/news/20260917-AA-ITS-Safety-Hachathon/)のページをご覧ください．
