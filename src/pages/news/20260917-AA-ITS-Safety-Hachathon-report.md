@@ -14,20 +14,22 @@ tags:
 多数ご参加頂き誠にありがとうございました．
 <!--![会場の様子](img/IMG_6298.jpg "会場の様子")　-->
 
-<img width="300" src="img/20260918/IMG_4678.jpg">
-<img width="300" src="img/20260918/IMG_4683.jpg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="img/20260918/IMG_4678.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_4683.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
 
-<img width="300" src="img/20260918/IMG_4692.jpg">
-<img width="300" src="img/20260918/IMG_4697.jpg">
+  <img src="img/20260918/IMG_4692.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_4697.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
 
-<img width="300" src="img/20260918/IMG_4700.jpg">
-<img width="300" src="img/20260918/IMG_4710.jpg">
+  <img src="img/20260918/IMG_4700.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_4710.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
 
-<img width="300" src="img/20260918/IMG_4712.jpg">
-<img width="300" src="img/20260918/IMG_4715.jpg">
+  <img src="img/20260918/IMG_4712.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_4715.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
 
-<img width="300" src="img/20260918/IMG_4721.jpg">
-<img width="300" src="img/20260918/IMG_4723.jpg">
+  <img src="img/20260918/IMG_4721.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_4723.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+</div>
 
 
 プログラムは[スマートポール・セーフティハッカソン2026](/news/20260917-AA-ITS-Safety-Hachathon/)のページをご覧ください．
