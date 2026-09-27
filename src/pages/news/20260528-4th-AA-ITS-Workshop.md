@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 4th AA-ITS ワークショップ（第4回研究会）
 date: 2026-5-28T09:00:10.000Z
-description: 延期となっていたAA-ITS ワークショップ（第４回研究会）＠台湾の開催日が決定しました
+description:AA-ITS ワークショップ（第４回研究会）＠台湾のプログラムが定まりつつあります．
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
@@ -10,8 +10,8 @@ tags:
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (4th AA-ITS Workshop)
 - 4th AA-ITS Workshop
 ---
-[2026.07.08 update]
-<h1>開催日が５月から変更となりました</h1>
+[2026.09.27 update]
+<h3>(開催日が５月から変更となりました)</h3>
 
 # 【日時】2026年12月3日～4日 (updated)
 # 【会場】財団法人資訊工業策進会（III）building  
@@ -50,3 +50,9 @@ tags:
 - ポスター形式による発表
 - 発表言語は英語
 - A4 1枚～6枚の予稿（<a href="https://www.ieice.org/jpn_r/event/kenkyukai/index.html" target="_blank">研究会スタイルファイル</a>を利用ください）を別途提出
+
+--
+<h1>h1</h1>
+<h2>h2</h2>
+<h3>h3</h3>
+<h4>h4</h4>
