@@ -80,6 +80,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/committee/">
                 専門委員会
               </Link>
+              <Link className="navbar-item" to="/rules/">
+                各種規定
+              </Link>
               <Link className="navbar-item" to="/contact/">
                 お問い合わせ
               </Link>
