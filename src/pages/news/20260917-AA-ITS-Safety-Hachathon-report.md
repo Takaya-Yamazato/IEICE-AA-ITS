@@ -51,7 +51,13 @@ tags:
 
  # 受賞グループ
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width: 10%;">
+    <col style="width: 30%;">
+    <col style="width: 30%;">
+    <col style="width: 30%;">
+  </colgroup>
   <thead>
     <tr>
       <th>賞</th>
@@ -65,37 +71,37 @@ tags:
       <td>最優秀賞</td>
       <td>柴田 大輝(愛知工業大学)，鈴木 海平(愛知工業大学)</td>
       <td>スマートポールから得られる軌跡データを活用したTransformerによる車両の軌跡推定</td>
-      <td><img src="img/20260918/IMG_7217.jpg" width="200"></td>
+      <td><img src="img/20260918/IMG_7217.jpg" style="width: 100%; max-width: 200px; height: auto;"></td>
     </tr>
     <tr>
       <td>優秀賞</td>
       <td>福田 大瑛(三重大学)，森 新汰(三重大学)，加藤 瑞稀(三重大学)</td>
       <td>スムーズな交差点通行を実現「スムクロ」の提案</td>
-      <td><img src="img/20260918/IMG_7213.jpg" width="200"></td>
+      <td><img src="img/20260918/IMG_7213.jpg" style="width: 100%; max-width: 200px; height: auto;"></td>
     </tr>
     <tr>
       <td>審査員特別賞（プラットフォーム賞）</td>
       <td>草山 真一(名古屋大学)，佐藤 健哉(同志社大学)，小林 玄武(富士ソフト株式会社)，山田 峻也(名古屋大学)</td>
       <td>情報通信プラットフォームを利用した多様なアプリケーションの実現 -遠隔監視，衝突危険警告から走行調停，道路課金まで-</td>
-      <td><img src="img/20260918/IMG_7212.jpg" width="200"></td>
+      <td><img src="img/20260918/IMG_7212.jpg" style="width: 100%; max-width: 200px; height: auto;"></td>
     </tr>
     <tr>
       <td>審査員特別賞（アイデア賞）</td>
       <td>伊藤 篤(中央大学)，高橋淳奈(中央大学)，ヘンミセン(中央大学)，田中 侑也(中央大学)，駒村 拓哉(中央大学)，佐々木 陽(（株）Gclue</td>
       <td>スマートポールによる見守りネットワークの構築</td>
-      <td><img src="img/20260918/IMG_7211.jpg" width="200"></td>
+      <td><img src="img/20260918/IMG_7211.jpg" style="width: 100%; max-width: 200px; height: auto;"></td>
     </tr>
     <tr>
       <td>奨励賞</td>
       <td>谷脇 小太郎(神奈川工科大学)，盛百立(神奈川工科大学)，高取 祐介(神奈川工科大学)</td>
       <td>見通しの良し悪しによる交差点の侵入の違いについて</td>
-      <td><img src="img/20260918/IMG_7210.jpg" width="200"></td>
+      <td><img src="img/20260918/IMG_7210.jpg" style="width: 100%; max-width: 200px; height: auto;"></td>
     </tr>
     <tr>
       <td>奨励賞</td>
       <td>YANG HAORAN(名古屋大学)</td>
       <td>スマートポールの実測データに基づく衝突防止のための通知タイミングの検討 -どのくらいの距離で通知すれば衝突を防止できるのか？</td>
-      <td><img src="img/20260918/IMG_7208.jpg" width="200"></td>
+      <td><img src="img/20260918/IMG_7208.jpg" style="width: 100%; max-width: 200px; height: auto;"></td>
     </tr>
   </tbody>
 </table>
