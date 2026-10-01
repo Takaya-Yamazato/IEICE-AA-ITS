@@ -20,27 +20,32 @@ tags:
 
 <!--![会場の様子](img/IMG_6298.jpg "会場の様子") -->
  # 写真
-<div style="display: grid; grid-template-columns: repeat(2, 300px); gap: 10px; justify-content: center;">
-  <img src="img/20260918/IMG_4678.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-  <img src="img/20260918/IMG_4683.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-
-  <img src="img/20260918/IMG_4692.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-  <img src="img/20260918/IMG_4697.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-
-  <img src="img/20260918/IMG_4700.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-  <img src="img/20260918/IMG_4710.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-
-  <img src="img/20260918/IMG_4712.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-  <img src="img/20260918/IMG_4715.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-
-  <img src="img/20260918/IMG_4721.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-  <img src="img/20260918/IMG_4723.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-
-  <img src="img/20260918/IMG_7204.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-  <img src="img/20260918/IMG_7206.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
-
-  
-</div>
+<table style="border: none !important; border-collapse: collapse;">
+  <tr style="border: none !important;">
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4678.jpg" width="300"></td>
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4683.jpg" width="300"></td>
+  </tr>
+  <tr style="border: none !important;">
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4692.jpg" width="300"></td>
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4697.jpg" width="300"></td>
+  </tr>
+  <tr style="border: none !important;">
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4700.jpg" width="300"></td>
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4710.jpg" width="300"></td>
+  </tr>
+  <tr style="border: none !important;">
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4712.jpg" width="300"></td>
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4715.jpg" width="300"></td>
+  </tr>
+  <tr style="border: none !important;">
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4721.jpg" width="300"></td>
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_4723.jpg" width="300"></td>
+  </tr>
+  <tr style="border: none !important;">
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_7204.jpg" width="300"></td>
+    <td style="border: none !important; width: 300px; padding: 5px;"><img src="img/20260918/IMG_7206.jpg" width="300"></td>
+  </tr>
+</table>
 
 
 
