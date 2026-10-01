@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 【報告】スマートポール・セーフティハッカソン2026を開催しました．
-date: 2026-9-18T09:00:10.000Z
+date: 2026-09-18T09:00:10.000Z
 description: スマートポール・セーフティハッカソン2026が無事に終わりました．ご報告．
 featuredpost: false
 featuredimage: /img/AA-ITS-small.webp
@@ -12,7 +12,7 @@ tags:
 
 2026年9月18日（金）にトヨタ東京ビルにてスマートポール・セーフティハッカソン2026を開催しました．<BR />
 多数ご参加頂き誠にありがとうございました．
-<!--![会場の様子](img/IMG_6298.jpg "会場の様子")　-->
+<!--![会場の様子](img/IMG_6298.jpg "会場の様子") -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="img/20260918/IMG_4678.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
@@ -29,6 +29,20 @@ tags:
 
   <img src="img/20260918/IMG_4721.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
   <img src="img/20260918/IMG_4723.jpg" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+
+  <img src="img/20260918/IMG_7204.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_7206.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+
+  <img src="img/20260918/IMG_7208.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_7209.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+
+  <img src="img/20260918/IMG_7210.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_7211.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+
+  <img src="img/20260918/IMG_7212.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+  <img src="img/20260918/IMG_7213.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
+
+  <img src="img/20260918/IMG_7217.JPG" style="width: calc(50% - 5px); max-width: 300px; object-fit: cover;">
 </div>
 
 
@@ -43,12 +57,3 @@ tags:
 | 審査員特別賞（アイデア賞） | 伊藤 篤(中央大学)，高橋淳奈(中央大学)，ヘンミセン(中央大学)，田中 侑也(中央大学)，駒村 拓哉(中央大学)，佐々木 陽(（株）Gclue | スマートポールによる見守りネットワークの構築 |
 | 奨励賞 | YANG HAORAN(名古屋大学) | スマートポールの実測データに基づく衝突防止のための通知タイミングの検討 -どのくらいの距離で通知すれば衝突を防止できるのか？ |
 | 奨励賞 | 谷脇 小太郎(神奈川工科大学)，盛百立(神奈川工科大学)，高取 祐介(神奈川工科大学) | 見通しの良し悪しによる交差点の侵入の違いについて|
-
-
-
-
-次回は2025年12月5日（金）に機械振興会館にて開催します．<BR />
-どうぞ，奮ってご参加下さい．たくさんの皆様のご参加をお待ちしております．<br />
-詳細は[こちらから](news/20251205-AA-ITS-Workshop.md)
-
-
