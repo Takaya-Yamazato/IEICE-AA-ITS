@@ -12,8 +12,14 @@ tags:
 
 2026年9月18日（金）にトヨタ東京ビルにてスマートポール・セーフティハッカソン2026を開催しました．<BR />
 多数ご参加頂き誠にありがとうございました．
-<!--![会場の様子](img/IMG_6298.jpg "会場の様子") -->
 
+プログラムは[スマートポール・セーフティハッカソン2026](/news/20260917-AA-ITS-Safety-Hachathon/)のページをご覧ください．
+
+次年度も開催する予定です．
+皆様のご参加，心よりお待ち申し上げます．
+
+<!--![会場の様子](img/IMG_6298.jpg "会場の様子") -->
+ # 写真
 <div style="display: grid; grid-template-columns: repeat(2, 300px); gap: 10px; justify-content: center;">
   <img src="img/20260918/IMG_4678.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
   <img src="img/20260918/IMG_4683.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">
@@ -37,9 +43,8 @@ tags:
 </div>
 
 
-プログラムは[スマートポール・セーフティハッカソン2026](/news/20260917-AA-ITS-Safety-Hachathon/)のページをご覧ください．
 
-受賞グループ
+ # 受賞グループ
 | 賞 | 名前 | 発表題目 | |
 | --- | --- | --- | --- |
 | 最優秀賞 | 柴田 大輝(愛知工業大学)，鈴木 海平(愛知工業大学) | スマートポールから得られる軌跡データを活用したTransformerによる車両の軌跡推定 | <img src="img/20260918/IMG_7217.jpg" style="width: 300px !important; max-width: 300px !important; height: auto;">|
