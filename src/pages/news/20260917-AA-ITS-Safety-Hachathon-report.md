@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 【報告】スマートポール・セーフティハッカソン2026を開催しました．
 date: 2026-09-18T09:00:10.000Z
 description: スマートポール・セーフティハッカソン2026が無事に終わりました．ご報告．
-featuredpost: false
+featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
 - スマートポール・セーフティハッカソン2026
