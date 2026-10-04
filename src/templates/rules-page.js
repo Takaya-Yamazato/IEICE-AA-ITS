@@ -1,17 +1,17 @@
 import React from 'react'
-  import { useStaticQuery, graphql } from 'gatsby'
+import { useStaticQuery, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
 export const Head = () => (
   <>
-    <title>AA-ITS|専門委員会</title>
-    <meta name="description" content="AA-ITS特別研専委員会のページです．" />
+    <title>AA-ITS|各種規定</title>
+    <meta name="description" content="AA-ITS研究会の運営にかかわる各種規定のページです．" />
   </>
 )
 
-export default function CommitteePage() {
+export default function RulesPage() {
   const data = useStaticQuery(graphql`
-    query committeePageQuery {
+    query rulesPageQuery {
       site {
         siteMetadata {
           title
@@ -57,27 +57,3 @@ export default function CommitteePage() {
     </Layout>
   )
 }
-
-// DefaultPageTemplate.propTypes = {
-//   title: PropTypes.string.isRequired,
-//   content: PropTypes.string,
-//   // contentComponent: PropTypes.func,
-// }
-
-const CommitteePageTemplate = ({ data }) => {
-  const post = data.markdownRemark
-
-  return (
-    <Layout>
-      <CommitteePageTemplate
-        // contentComponent={HTMLContent}
-        title={post.frontmatter.title}
-        content={post.html}
-      />
-    </Layout>
-  )
-}
-
-// CommitteePageTemplate.propTypes = {
-//   data: PropTypes.object.isRequired,
-// }
