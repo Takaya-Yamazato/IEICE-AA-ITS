@@ -17,7 +17,7 @@ export default function CommitteePage() {
           title
         }
       }
-      markdownRemark(frontmatter: { templateKey: { eq: "committee-page" } }) {
+      markdownRemark(frontmatter: { templateKey: { eq: "rules-page" } }) {
         id
         excerpt(pruneLength: 160)
         frontmatter {
