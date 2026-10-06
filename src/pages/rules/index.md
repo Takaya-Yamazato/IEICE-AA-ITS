@@ -6,4 +6,4 @@ date: 2026-09-28T11:00:57.137Z
 ---
 
 
-- <a href="./files/hackathon_award_rules.pdf">スマートポールセーフティハッカソン各種賞選奨規定</a>
+- <a href="./files/hackathon_award_rules.pdf" target="_blank">スマートポールセーフティハッカソン各種賞選奨規定</a>
