@@ -44,7 +44,7 @@ tags:
 - その後，夕刻散会予定
 
 
-# 参加申し込み（xx月xx日〆切）
+# 参加申し込み（10月23日〆切）
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9ttFz8gakDgKJCHk-LyIJJrp2hvKo_qOUEFXpWOOHaUAdTA/viewform?usp=dialog" target="_blank">　Google form</a>からご登録ください．  
 
 ※formの利用に問題がある場合はメール（宛先：aa-its-core [at] mail.ieice.org）で以下の内容をご連絡ください．
@@ -57,16 +57,13 @@ tags:
 エントリーを希望される方はメール（宛先：aa-its-core [at] mail.ieice.org）でご連絡ください．
 
 
-# ポスターセッションについて（予定）
+# ポスターセッションについて（10月23日〆切）
 一般講演発表としてポスターセッションを予定しています．
 ご発表いただける方は，上記参加申し込みに加え，発表を<a href="https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS" target="_blank">研究会システム</a>で登録ください．
 
 - ポスター形式による発表
 - 発表言語は英語
-- A4 1枚～6枚の予稿（<a href="https://www.ieice.org/jpn_r/event/kenkyukai/index.html" target="_blank">研究会スタイルファイル</a>を利用ください）を別途提出
+- A4 1枚～6枚の予稿（<a href="https://www.ieice.org/jpn_r/event/kenkyukai/index.html" target="_blank">研究会スタイルファイル</a>を利用ください）を別途提出（11月27日（金）締切）
 
 --
-<h1>h1</h1>
-<h2>h2</h2>
-<h3>h3</h3>
-<h4>h4</h4>
+
