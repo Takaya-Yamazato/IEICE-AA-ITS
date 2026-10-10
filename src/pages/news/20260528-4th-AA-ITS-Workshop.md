@@ -33,6 +33,53 @@ tags:
 
 招待講演は日本3件，台湾3件を予定．
 
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 1px solid #000;">
+  <colgroup>
+    <col style="width: 20%;">
+    <col style="width: 60%;">
+    <col style="width: 20%;">
+  </colgroup>
+    <thead style="background-color: #f0f0f0;">
+    <tr>
+      <th style="border: 1px solid #000; padding: 8px;">Presenter</th>
+      <th style="border: 1px solid #000; padding: 8px;">Title, Abstract</th>
+      <th style="border: 1px solid #000; padding: 8px;">Photograph</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Speaker 1 -->
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <strong>Speaker 1</strong><br>
+        <span style="font-size: 0.9em; color: #555;">Affiliation 1</span>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <strong>title 1</strong><br><br>
+        abst 1
+      </td>
+      <td style="border: 1px solid #000; padding: 8px; text-align: center;">
+        <img src="speaker1.jpg" alt="Speaker 1" style="width: 100%; max-width: 150px; height: auto;">
+      </td>
+    </tr>
+    <!-- Speaker 2 -->
+    <tr>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <strong>Speaker 2</strong><br>
+        <span style="font-size: 0.9em; color: #555;">Affiliation 2</span>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <strong>title 2</strong><br><br>
+        abst 2
+      </td>
+      <td style="border: 1px solid #000; padding: 8px; text-align: center;">
+        <img src="speaker2.jpg" alt="Speaker 2" style="width: 100%; max-width: 150px; height: auto;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## 2日目（12月4日（金））
 スマートポール見学会
 - 08:20 【集合・移動】IIIビル集合，貸し切りバスにて移動開始
