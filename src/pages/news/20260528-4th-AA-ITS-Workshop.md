@@ -55,7 +55,7 @@ tags:
       </td>
       <td style="border: 1px solid #000; padding: 8px;">
         <strong>Traffic Digital Twin as a Socio-technical System Aimed at Achieving Zero Traffic Accidents</strong><br><br>
-        Although traffic accidents and fatalities have declined over the long term
+        Abst1
       </td>
       <td style="border: 1px solid #000; padding: 8px; text-align: center;">
         <img src="./img/20261203/toyoda.jpg" alt="Heishiro Toyoda" style="width: 100%; max-width: 150px; height: auto;">
@@ -69,7 +69,7 @@ tags:
       </td>
       <td style="border: 1px solid #000; padding: 8px;">
         <strong>Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin</strong><br><br>
-        Autonomous driving is 
+        Abst2
       </td>
       <td style="border: 1px solid #000; padding: 8px; text-align: center;">
         <img src="./img/20261203/sakaguchi.jpg" alt="Kei Sakaguchi" style="width: 100%; max-width: 150px; height: auto;">
