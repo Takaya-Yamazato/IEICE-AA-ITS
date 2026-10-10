@@ -35,9 +35,9 @@ tags:
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 1px solid #000;">
   <colgroup>
+    <col style="width: 20%;">
+    <col style="width: 65%;">
     <col style="width: 15%;">
-    <col style="width: 80%;">
-    <col style="width: 5%;">
   </colgroup>
     <thead style="background-color: #f0f0f0;">
     <tr>
