@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 4th AA-ITS ワークショップ（第4回研究会）
-date: 2026-5-28T09:00:10.000Z
+date: 2026-12-03T09:00:10.000Z
 description: AA-ITS ワークショップ（第４回研究会）＠台湾のプログラムが定まりつつあります．
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
@@ -10,7 +10,7 @@ tags:
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (4th AA-ITS Workshop)
 - 4th AA-ITS Workshop
 ---
-[2026.09.27 update]
+[2026.10.10 update]
 <h3>(開催日が５月から変更となりました)</h3>
 
 # 【日時】2026年12月3日～4日 (updated)
