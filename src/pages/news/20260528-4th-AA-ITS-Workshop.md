@@ -35,9 +35,9 @@ tags:
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 1px solid #000;">
   <colgroup>
-    <col style="width: 20%;">
-    <col style="width: 60%;">
-    <col style="width: 20%;">
+    <col style="width: 15%;">
+    <col style="width: 80%;">
+    <col style="width: 5%;">
   </colgroup>
     <thead style="background-color: #f0f0f0;">
     <tr>
@@ -55,13 +55,7 @@ tags:
       </td>
       <td style="border: 1px solid #000; padding: 8px;">
         <strong>Traffic Digital Twin as a Socio-technical System Aimed at Achieving Zero Traffic Accidents</strong><br><br>
-        Although traffic accidents and fatalities have declined over the long term, recent progress has shown signs of leveling off. Achieving zero traffic accidents therefore requires a broader approach that extends beyond improvements in vehicle safety and regulations. This presentation proposes a traffic digital twin as a human-centered socio-technical system that integrates road users, vehicles, and infrastructure, with particular emphasis on identifying and reducing near-miss events before they develop into accidents.
-        
-        The proposed system continuously observes traffic environments using infrastructure and vehicle sensors, integrates heterogeneous data within a digital representation, and predicts multiple plausible future scenarios. Potential risks are identified by modeling the movements and interactions of vehicles, pedestrians, cyclists, and other road users. The system then communicates these risks in ways that help individuals understand possible future events and voluntarily choose safer behavior, rather than simply imposing warnings or control.
-        
-        Five technology areas are essential to this concept: timely and comprehensive sensing of traffic conditions; integration and digital representation of heterogeneous data; behavior modeling for short- and longer-term prediction; human–machine interfaces that promote understanding and behavioral change; and scalable communication and computing architectures. Initial development focuses on high-risk intersections, using real-world sensor data, simulation, vision-language understanding, and dynamic-occlusion analysis to predict near-miss scenarios.
-        
-        The long-term objective is to expand the deployment scope from individual intersections to multiple intersections and eventually entire urban areas. Through repeated support for risk anticipation, the traffic digital twin is expected to prevent immediate conflicts and, more importantly, cultivate individuals’ hazard-anticipation capabilities. Ultimately, it aims to provide a shared social infrastructure in which people and technology collaboratively create safer and more efficient traffic environments.
+        Although traffic accidents and fatalities have declined over the long term
       </td>
       <td style="border: 1px solid #000; padding: 8px; text-align: center;">
         <img src="./img/20261203/toyoda.jpg" alt="Heishiro Toyoda" style="width: 100%; max-width: 150px; height: auto;">
@@ -75,13 +69,7 @@ tags:
       </td>
       <td style="border: 1px solid #000; padding: 8px;">
         <strong>Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin</strong><br><br>
-        Autonomous driving is expected to play a key role in future smart mobility systems. However, conventional autonomous vehicles rely primarily on onboard sensors and intelligence, which face fundamental limitations in perceiving occluded objects, predicting complex traffic situations, and ensuring safety in dynamic urban environments. To overcome these challenges, we have developed a novel framework for *Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin*, integrating connected vehicles, intelligent roadside infrastructure, wireless communications, and artificial intelligence.
-        
-        The Smart Mobility Digital Twin continuously collects real-time information about traffic participants, including vehicles, pedestrians, and cyclists, through V2X communications and roadside sensing infrastructure. This information is integrated into a digital representation of the physical traffic environment, enabling cooperative perception beyond the capabilities of individual vehicles. Furthermore, AI-based prediction technologies anticipate future movements of traffic participants and potential collision risks, allowing the digital twin to provide proactive driving assistance and safety-critical information to autonomous vehicles.
-        
-        This approach extends conventional vehicle-centric autonomous driving toward an infrastructure-assisted, cooperative intelligence architecture, where physical and cyber systems interact in real time. It also creates new opportunities for improving traffic efficiency, enhancing the reliability of V2X communications, and enabling safer mobility in complex urban environments.
-        
-        In this keynote, we will introduce the fundamental concepts, enabling technologies, and system architecture of Smart Mobility Digital Twin and Hybrid Autonomous Driving. We will also present recent research developments and experimental demonstrations conducted at the Ookayama Smart Mobility Test Field in Tokyo, and discuss future directions toward the integration of 6G communications, Physical AI, and next-generation intelligent transportation system.
+        Autonomous driving is 
       </td>
       <td style="border: 1px solid #000; padding: 8px; text-align: center;">
         <img src="./img/20261203/sakaguchi.jpg" alt="Kei Sakaguchi" style="width: 100%; max-width: 150px; height: auto;">
