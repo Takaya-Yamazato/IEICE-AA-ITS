@@ -50,8 +50,11 @@ tags:
     <!-- Speaker 1 -->
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">
-        <strong>Heishiro Toyoda</strong><br>
-        <span style="font-size: 0.9em; color: #555;">Toyota Motor Corporation</span>
+        <strong>Heishiro Toyoda</strong><br><BR>
+        <span style="font-size: 0.9em; color: #555;">
+          Human & Life Integrated Technology Dept.,<BR>
+           Advanced Mobility System Development Div.,<BR>
+          Toyota Motor Corporation</span>
       </td>
       <td style="border: 1px solid #000; padding: 8px;">
         <strong>Traffic Digital Twin as a Socio-technical System Aimed at Achieving Zero Traffic Accidents</strong><br><br>
@@ -67,8 +70,13 @@ tags:
     <!-- Speaker 2 -->
     <tr>
       <td style="border: 1px solid #000; padding: 8px;">
-        <strong>Kei Sakaguchi</strong><br>
-        <span style="font-size: 0.9em; color: #555;">Institute of Science Tokyo, Japan</span>
+        <strong>Kei Sakaguchi</strong><br><br>
+        <span style="font-size: 0.9em; color: #555;">
+          Program Director, Innovative-Life Society Visionary Initiative,
+Dean, Academy of Super Smart Society,<BR>
+Professor, Dept. Electrical & Electronic Engineering,
+Institute of Science Tokyo, Japan
+          </span>
       </td>
       <td style="border: 1px solid #000; padding: 8px;">
         <strong>Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin</strong><br><br>
