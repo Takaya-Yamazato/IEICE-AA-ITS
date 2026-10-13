@@ -84,7 +84,7 @@ tags:
 ご発表いただける方は，上記参加申し込みに加え，発表を<a href="https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS" target="_blank">研究会システム</a>で登録ください．
 
 - ポスター形式による発表
-- 発表言語は英語
+- 言語は英語
 - A4 1枚～6枚の予稿（<a href="https://www.ieice.org/jpn_r/event/kenkyukai/index.html" target="_blank">研究会スタイルファイル</a>を利用ください）を別途提出（11月27日（金）締切）
 
 --
