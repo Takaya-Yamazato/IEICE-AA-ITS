@@ -1,20 +1,23 @@
 ---
 templateKey: blog-post
-title: 4th AA-ITS ワークショップ（第4回研究会）
+title: 4th AA-ITS 台湾ワークショップ（第4回研究会）
 date: 2026-12-03T09:00:10.000Z
-description: AA-ITS ワークショップ（第４回研究会）＠台湾のプログラムが定まりつつあります．
+description: AA-ITS 台湾ワークショップ（第４回研究会）のプログラムが定まりつつあります．
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
-- 車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第4回研究会の開催案内
+- 車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第4回台湾ワークショップの開催案内
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (4th AA-ITS Workshop)
 - 4th AA-ITS Workshop
 ---
 [2026.10.10 update]
+
+### [Go to English page](/news/20260528-4th-AA-ITS-Taiwan-Workshop/)
+
 <h3>(開催日が５月から変更となりました)</h3>
 
-# 【日時】2026年12月3日～4日 (updated)
-# 【会場】財団法人資訊工業策進会（III）building  
+# 【日時】 2026年12月3日～4日 (updated)
+# 【会場】 [財団法人資訊工業策進会（III）building](https://www.iii.org.tw/en)
 ## （台湾台北市民生東路4段133号14階）
 # 【参加費（予定）】30,000 ～ 40,000 JPY（オンライン参加 5,000 JPY）
 　※オンライン参加について，現地視察，企業展示，デモなどのオンライン配信は致しません．研究会の一部のみの配信となりますこと，ご了承ください．
@@ -33,66 +36,24 @@ tags:
 
 招待講演は日本3件，台湾3件を予定．
 
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 1px solid #000;">
-  <colgroup>
-    <col style="width: 20%;">
-    <col style="width: 65%;">
-    <col style="width: 15%;">
-  </colgroup>
-    <thead style="background-color: #f0f0f0;">
-    <tr>
-      <th style="border: 1px solid #000; padding: 8px;">Presenter</th>
-      <th style="border: 1px solid #000; padding: 8px;">Title, Abstract</th>
-      <th style="border: 1px solid #000; padding: 8px;">Photograph</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Speaker 1 -->
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">
-        <strong>Heishiro Toyoda</strong><br><BR>
-        <span style="font-size: 0.9em; color: #555;">
-          Human & Life Integrated Technology Dept.,<BR>
-           Advanced Mobility System Development Div.,<BR>
-          Toyota Motor Corporation</span>
-      </td>
-      <td style="border: 1px solid #000; padding: 8px;">
-        <strong>Traffic Digital Twin as a Socio-technical System Aimed at Achieving Zero Traffic Accidents</strong><br><br>
-      Although traffic accidents and fatalities have declined over the long term, recent progress has shown signs of leveling off. Achieving zero traffic accidents therefore requires a broader approach that extends beyond improvements in vehicle safety and regulations. This presentation proposes a traffic digital twin as a human-centered socio-technical system that integrates road users, vehicles, and infrastructure, with particular emphasis on identifying and reducing near-miss events before they develop into accidents.<BR>        
-      The proposed system continuously observes traffic environments using infrastructure and vehicle sensors, integrates heterogeneous data within a digital representation, and predicts multiple plausible future scenarios. Potential risks are identified by modeling the movements and interactions of vehicles, pedestrians, cyclists, and other road users. The system then communicates these risks in ways that help individuals understand possible future events and voluntarily choose safer behavior, rather than simply imposing warnings or control.<BR>
-      Five technology areas are essential to this concept: timely and comprehensive sensing of traffic conditions; integration and digital representation of heterogeneous data; behavior modeling for short- and longer-term prediction; human–machine interfaces that promote understanding and behavioral change; and scalable communication and computing architectures. Initial development focuses on high-risk intersections, using real-world sensor data, simulation, vision-language understanding, and dynamic-occlusion analysis to predict near-miss scenarios.<BR>
-  The long-term objective is to expand the deployment scope from individual intersections to multiple intersections and eventually entire urban areas. Through repeated support for risk anticipation, the traffic digital twin is expected to prevent immediate conflicts and, more importantly, cultivate individuals’ hazard-anticipation capabilities. Ultimately, it aims to provide a shared social infrastructure in which people and technology collaboratively create safer and more efficient traffic environments.
-      </td>
-      <td style="border: 1px solid #000; padding: 8px; text-align: center;">
-        <img src="./img/20261203/toyoda.jpg" alt="Heishiro Toyoda" style="width: 100%; max-width: 150px; height: auto;">
-      </td>
-    </tr>
-    <!-- Speaker 2 -->
-    <tr>
-      <td style="border: 1px solid #000; padding: 8px;">
-        <strong>Kei Sakaguchi</strong><br><br>
-        <span style="font-size: 0.9em; color: #555;">
-          Program Director, Innovative-Life Society Visionary Initiative,
-Dean, Academy of Super Smart Society,<BR>
-Professor, Dept. Electrical & Electronic Engineering,
-Institute of Science Tokyo, Japan
-          </span>
-      </td>
-      <td style="border: 1px solid #000; padding: 8px;">
-        <strong>Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin</strong><br><br>
-        Autonomous driving is expected to play a key role in future smart mobility systems. However, conventional autonomous vehicles rely primarily on onboard sensors and intelligence, which face fundamental limitations in perceiving occluded objects, predicting complex traffic situations, and ensuring safety in dynamic urban environments. To overcome these challenges, we have developed a novel framework for *Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin*, integrating connected vehicles, intelligent roadside infrastructure, wireless communications, and artificial intelligence.<BR>
-The Smart Mobility Digital Twin continuously collects real-time information about traffic participants, including vehicles, pedestrians, and cyclists, through V2X communications and roadside sensing infrastructure. This information is integrated into a digital representation of the physical traffic environment, enabling cooperative perception beyond the capabilities of individual vehicles. Furthermore, AI-based prediction technologies anticipate future movements of traffic participants and potential collision risks, allowing the digital twin to provide proactive driving assistance and safety-critical information to autonomous vehicles.<BR>
-This approach extends conventional vehicle-centric autonomous driving toward an infrastructure-assisted, cooperative intelligence architecture, where physical and cyber systems interact in real time. It also creates new opportunities for improving traffic efficiency, enhancing the reliability of V2X communications, and enabling safer mobility in complex urban environments.<BR>
-In this keynote, we will introduce the fundamental concepts, enabling technologies, and system architecture of Smart Mobility Digital Twin and Hybrid Autonomous Driving. We will also present recent research developments and experimental demonstrations conducted at the Ookayama Smart Mobility Test Field in Tokyo, and discuss future directions toward the integration of 6G communications, Physical AI, and next-generation intelligent transportation system.
-      </td>
-      <td style="border: 1px solid #000; padding: 8px; text-align: center;">
-        <img src="./img/20261203/sakaguchi.jpg" alt="Kei Sakaguchi" style="width: 100%; max-width: 150px; height: auto;">
-      </td>
-    </tr>
-  </tbody>
-</table>
+# Keynote Presentations
+---
+![Heishiro Toyoda](./img/20261203/toyoda.jpg)
+
+* **Heishiro Toyoda** (Human & Life Integrated Technology Dept., Advanced Mobility System Development Div., Toyota Motor Corporation)
+* **Title:** Traffic Digital Twin as a Socio-technical System Aimed at Achieving Zero Traffic Accidents
+* **Abstract:** Although traffic accidents and fatalities have declined over the long term, recent progress has shown signs of leveling off. Achieving zero traffic accidents therefore requires a broader approach that extends beyond improvements in vehicle safety and regulations. This presentation proposes a traffic digital twin as a human-centered socio-technical system that integrates road users, vehicles, and infrastructure, with particular emphasis on identifying and reducing near-miss events before they develop into accidents.
+
+---
+
+![Kei Sakaguchi](./img/20261203/sakaguchi.jpg)
+
+* **Kei Sakaguchi** (Program Director, Innovative-Life Society Visionary Initiative, Dean, Academy of Super Smart Society, Professor, Dept. Electrical & Electronic Engineering, Institute of Science Tokyo, Japan)
+* **Title:** Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin
+* **Abstract:** Autonomous driving is expected to play a key role in future smart mobility systems. However, conventional autonomous vehicles rely primarily on onboard sensors and intelligence, which face fundamental limitations in perceiving occluded objects, predicting complex traffic situations, and ensuring safety in dynamic urban environments. To overcome these challenges, we have developed a novel framework for *Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin*, integrating connected vehicles, intelligent roadside infrastructure, wireless communications, and artificial intelligence.
 
 
+---
 
 ## 2日目（12月4日（金））
 スマートポール見学会
