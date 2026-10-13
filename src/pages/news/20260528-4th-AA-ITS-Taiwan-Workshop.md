@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 4th AA-ITS Taiwan Workshop
 date: 2026-12-03T09:00:10.000Z
-description: AA-ITS Taiwan Workshop will be held in Institute for Information Industry (III) Building, Taipei City, Taiwan on December 3 – 4, 2026. Please join us and explore the future ITS and smart pole.
+description: Join us at the 4th AA-ITS Taiwan Workshop, taking place on December 3–4, 2026, at the Institute for Information Industry (III) Building in Taipei, Taiwan. Discover cutting-edge advancements in intelligent transportation systems and smart pole technologies through expert keynotes, interactive discussions, and an exclusive technical tour.
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
@@ -10,6 +10,9 @@ tags:
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (4th AA-ITS Taiwan Workshop)
 - 4th AA-ITS Taiwan Workshop
 ---
+
+Please join us and explore the future ITS and smart pole.
+
 ### [Go to Japanese page](/news/20260528-4th-AA-ITS-Workshop/)
 ---
 
