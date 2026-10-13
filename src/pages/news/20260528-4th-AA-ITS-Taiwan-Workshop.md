@@ -11,7 +11,6 @@ tags:
 - 4th AA-ITS Taiwan Workshop
 ---
 
-Please join us and explore the future ITS and smart pole.
 
 ### [Go to Japanese page](/news/20260528-4th-AA-ITS-Workshop/)
 ---
