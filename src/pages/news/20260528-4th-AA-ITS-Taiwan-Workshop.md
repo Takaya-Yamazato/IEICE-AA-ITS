@@ -69,8 +69,8 @@ tags:
 * **11:00** Tour Site 2: Sanchong Unsignalized Intersection, New Taipei City
 * **12:30 approx.** Stopover (Drop-off at Taipei Songshan Airport for participants returning to Japan, if applicable)
 * **13:20** Tour Site 3: Bureau of Standards, Metrology and Inspection (BSMI) Xizhi Building
-* *(Exploring additional visits to Taiwan's electronics industry enterprises)*
-* **Evening** Disbandment
+* **16:00** Tour Site 4: Electronics Industry Enterprise Visit (Under negotiation)
+* **18:00** Disbandment at III Building
 
 ---
 
