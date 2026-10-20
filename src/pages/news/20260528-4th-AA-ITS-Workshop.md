@@ -10,7 +10,7 @@ tags:
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (4th AA-ITS Workshop)
 - 4th AA-ITS Workshop
 ---
-[2026.10.10 update]
+[2026.10.20 update]
 
 ### [Go to English page](/news/20260528-4th-AA-ITS-Taiwan-Workshop/)
 
@@ -56,14 +56,15 @@ tags:
 ---
 
 ## 2日目（12月4日（金））
-スマートポール見学会
+スマートポール見学会（予定）
 - 08:20 【集合・移動】IIIビル集合，貸し切りバスにて移動開始
 - 09:00 【見学①】松山文創園区
 - 11:00 【見学②】新北三重・無信号交差点
 - 12:30頃　※帰国される日本側参加者がもしいれば台北松山空港立ち寄り
 - 13:20 【見学③】標準検査局（BSMI）汐止ビル
-- ※台湾電子産業に関連する企業見学も打診中
-- その後，夕刻散会予定
+- 16:00 【見学④】電子産業企業訪問調整中
+- 18:00 IIIビル解散
+
 
 
 # 参加申し込み（10月23日〆切）
