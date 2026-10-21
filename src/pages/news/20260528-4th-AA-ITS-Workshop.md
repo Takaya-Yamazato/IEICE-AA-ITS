@@ -67,7 +67,8 @@ tags:
 * **Title:** Smart Poles: Building a Citywide Safety Network
 * **Abstract:** This presentation explores how smart poles integrate street lighting, surveillance, and sensors to serve as urban sensing and citizen service nodes, enhancing urban resilience and public services. It introduces a four-layer architecture comprising Perception, Connectivity, AI Analytics, and Services, with digital twin applications incorporated into the services layer. Deployment is tailored to the characteristics and needs of commercial districts, transportation hubs, traffic corridors, and campuses. Key applications include traffic optimization, air quality monitoring, and water-related alerts, demonstrating how smart poles can support urban management and citizen services across different settings. The presentation also discusses de-identification and tiered cybersecurity governance to protect data privacy and manage cybersecurity risks. Finally, it examines how attracting visitors to local commercial districts can support sustainable operating models for smart pole services.
 
-* ![Bing-Jean Lee](./img/20261203/jean.jpg)
+
+![Bing-Jean Lee](./img/20261203/jean.jpg)
 
 * **Bing-Jean Lee** (Distinguished Chair Professor, Director, Office of Technology Development, Director, FCU-MIC Smart City 5G Laboratory, Feng Chia University, Taiwan)
 * **Title:** A New Hub for Smart Cities: Transforming Urban Governance and Industrial Development through Smart Poles
