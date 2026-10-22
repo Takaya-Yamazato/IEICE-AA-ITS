@@ -59,7 +59,7 @@ tags:
 * **Title:** Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin
 * **Abstract:** Autonomous driving is expected to play a key role in future smart mobility systems. However, conventional autonomous vehicles rely primarily on onboard sensors and intelligence, which face fundamental limitations in perceiving occluded objects, predicting complex traffic situations, and ensuring safety in dynamic urban environments. To overcome these challenges, we have developed a novel framework for *Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin*, integrating connected vehicles, intelligent roadside infrastructure, wireless communications, and artificial intelligence.
 
-
+---
 
 ![Henry Meng](./img/20261203/meng.jpg)
 
@@ -67,6 +67,7 @@ tags:
 * **Title:** Smart Pole Empowering Two-Wheeler Safety: AI Roadside Perception and Real-Time Risk Warning
 * **Abstract:** This presentation explores innovative applications of smart poles to enhance the safety of two-wheeler riders and vulnerable road users. It introduces how the Institute for Information Industry (III) leverages smart sensing and Vehicle-to-Everything (V2X) technologies to integrate roadside environmental perception, traffic risk detection, and real-time information delivery. These capabilities help drivers identify blind spots and potential collision risks earlier, improving safety alerts at intersections. By integrating intelligent roadside infrastructure with cooperative vehicle-infrastructure systems, the approach extends the perception capabilities of conventional in-vehicle systems and provides enhanced safety protection for motorcyclists, cyclists, and pedestrians, demonstrating the potential of Taiwan’s intelligent transportation technologies to improve road safety.
 
+---
 
 ![Rick Chang](./img/20261203/chang.jpg)
 
@@ -74,6 +75,7 @@ tags:
 * **Title:** Smart Poles: Building a Citywide Safety Network
 * **Abstract:** This presentation explores how smart poles integrate street lighting, surveillance, and sensors to serve as urban sensing and citizen service nodes, enhancing urban resilience and public services. It introduces a four-layer architecture comprising Perception, Connectivity, AI Analytics, and Services, with digital twin applications incorporated into the services layer. Deployment is tailored to the characteristics and needs of commercial districts, transportation hubs, traffic corridors, and campuses. Key applications include traffic optimization, air quality monitoring, and water-related alerts, demonstrating how smart poles can support urban management and citizen services across different settings. The presentation also discusses de-identification and tiered cybersecurity governance to protect data privacy and manage cybersecurity risks. Finally, it examines how attracting visitors to local commercial districts can support sustainable operating models for smart pole services.
 
+---
 
 ![Bing-Jean Lee](./img/20261203/jean.jpg)
 
