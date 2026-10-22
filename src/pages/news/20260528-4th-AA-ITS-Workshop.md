@@ -36,7 +36,7 @@ tags:
 
 招待講演は日本3件，台湾3件を予定．
 
-# Keynote Presentations
+# Keynote Presentations （AIによる同時通訳を実施）
 ---
 ![Heishiro Toyoda](./img/20261203/toyoda.jpg)
 
