@@ -43,7 +43,7 @@ tags:
 
 *(Featuring 3 invited speakers from Japan and 3 from Taiwan)*
 
-# Keynote Presentations
+# Keynote Presentations (AI simultaneous interpretation provided)
 ---
 ![Heishiro Toyoda](./img/20261203/toyoda.jpg)
 
