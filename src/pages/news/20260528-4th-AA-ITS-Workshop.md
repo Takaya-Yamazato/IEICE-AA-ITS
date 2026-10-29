@@ -90,8 +90,9 @@ tags:
 
 
 
-# 参加申し込み（10月23日〆切）
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd9ttFz8gakDgKJCHk-LyIJJrp2hvKo_qOUEFXpWOOHaUAdTA/viewform?usp=dialog" target="_blank">　Google form</a>からご登録ください．  
+# 参加申し込み（ ~~10月23日〆切~~ <font color="red">11月16日まで締切延長中．</font>）
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd9ttFz8gakDgKJCHk-LyIJJrp2hvKo_qOUEFXpWOOHaUAdTA/viewform?usp=dialog" target="_blank">　Google form</a>からご登録ください．  <BR>
+なお，準備の都合上，上限人数に達した場合は早期に締め切る場合がございます．お早めにご登録ください．
 
 ※formの利用に問題がある場合はメール（宛先：aa-its-core [at] mail.ieice.org）で以下の内容をご連絡ください．
 - 氏名，ご所属，メールアドレス
@@ -99,11 +100,11 @@ tags:
 - 登録種別（学会員 or 非会員 or 学生）
 - 参加形態（現地参加 or オンライン参加）※現地視察，企業展示，デモなどのオンライン配信は致しません．研究会の一部のみの配信となりますこと，ご了承ください
 
-# 企業展示について
-エントリーを希望される方はメール（宛先：aa-its-core [at] mail.ieice.org）でご連絡ください．
+# 企業展示について（ ~~10月23日〆切~~ <font color="red">11月16日まで締切延長中．</font>）
+エントリー（90,000 JPY～）を希望される方はメール（宛先：aa-its-core [at] mail.ieice.org）でご連絡ください．
 
 
-# ポスターセッションについて（10月23日〆切）
+# ポスターセッションについて（ ~~10月23日〆切~~ <font color="red">11月16日まで締切延長中．</font>）
 一般発表としてポスターセッションを予定しています．
 ご発表いただける方は，上記参加申し込みに加え，発表を<a href="https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS" target="_blank">研究会システム</a>で登録ください．
 
