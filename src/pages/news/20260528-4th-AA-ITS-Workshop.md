@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: 4th AA-ITS 台湾ワークショップ（第4回研究会）
+title: 4th AA-ITS ワークショップ（第4回研究会）＠台湾
 date: 2026-12-03T09:00:10.000Z
-description: AA-ITS 台湾ワークショップ（第４回研究会）のプログラムが定まりつつあります．
+description: AA-ITS ワークショップ（第４回研究会）＠台湾のプログラムが定まりつつあります．
 featuredpost: true
 featuredimage: /img/AA-ITS-small.webp
 tags:
-- 車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第4回台湾ワークショップの開催案内
+- 車載ICTとAD/ADAS-ITSインフラを核とする地域ICTプラットフォーム 第4回ワークショップ＠台湾の開催案内
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (4th AA-ITS Workshop)
 - 4th AA-ITS Workshop
 ---
@@ -14,15 +14,19 @@ tags:
 
 ### [Go to English page](/news/20260528-4th-AA-ITS-Taiwan-Workshop/)
 
-<h3>(開催日が５月から変更となりました)</h3>
+<h3>(開催日が5月28日-29日から変更となりました)</h3>
 
-# 【日時】 2026年12月3日～4日 (updated)
-# 【会場】 [財団法人資訊工業策進会（III）building](https://www.iii.org.tw/en)
-## （台湾台北市民生東路4段133号14階）
-# 【参加費（予定）】30,000 ～ 40,000 JPY（オンライン参加 5,000 JPY）
+# 4th AA-ITS ワークショップ（第4回研究会）＠台湾
+主催：電子情報通信学会 車載ICTとAD/ADAS-ITS インフラを核とする地域ICTプラットフォームに関する特別研究専門委員会 (AA-ITS研究会）  
+併催：電子情報通信学会 高度交通システム研究専門委員会 (ITS研究会）  
+後援：ITS Japan
+## 【日時】 2026年12月3日～4日 (updated)
+## 【会場】 [財団法人資訊工業策進会（III）building](https://www.iii.org.tw/en)
+### （台湾台北市民生東路4段133号14階）
+## 【参加費（予定）】30,000 ～ 40,000 JPY（オンライン参加 5,000 JPY）
 　※オンライン参加について，現地視察，企業展示，デモなどのオンライン配信は致しません．研究会の一部のみの配信となりますこと，ご了承ください．
-# 【プログラム（予定）】
-## 1日目（12月3日（木））
+## 【プログラム（予定）】
+### 1日目（12月3日（木））
 - 13:00-13:30 受付
 - 13:30-13:50 開会挨拶
 - 13:50 招待講演3件
@@ -78,7 +82,7 @@ tags:
 
 ---
 
-## 2日目（12月4日（金））
+### 2日目（12月4日（金））
 スマートポール見学会（予定）
 - 08:20 【集合・移動】IIIビル集合，貸し切りバスにて移動開始
 - 09:00 【見学①】松山文創園区
