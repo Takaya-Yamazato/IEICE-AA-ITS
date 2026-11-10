@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 4th AA-ITS ワークショップ（第4回研究会）＠台湾
+title: 4th AA-ITS 台湾ワークショップ（第4回研究会）
 date: 2026-12-03T09:00:10.000Z
 description: AA-ITS ワークショップ（第４回研究会）＠台湾のプログラムが定まりつつあります．
 featuredpost: true
