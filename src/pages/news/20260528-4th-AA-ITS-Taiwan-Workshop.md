@@ -17,7 +17,9 @@ tags:
 
 # 4th AA-ITS Taiwan Workshop
 * Organized by:    
-Special Technical Committee on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (AA-ITS), IEICE
+-Special Technical Committee on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (AA-ITS), IEICE   
+-Institute for Information Industry (III)   
+
 * Co-organized by:    
 Technical Committee on Intelligent Transport Systems (ITS), IEICE
 * Supported by:    
@@ -116,4 +118,4 @@ ITS Japan
 * Final manuscript submission (1 to 6 A4 pages using the [Technical Committee Style Files](https://www.ieice.org/jpn_r/event/kenkyukai/index.html)) is due by Friday, November 27.
 
 ---
-
+![leaflet](./img/20261203/leaflet_iii.jpg) 
