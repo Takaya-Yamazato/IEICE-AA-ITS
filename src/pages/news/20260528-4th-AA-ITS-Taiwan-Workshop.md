@@ -15,12 +15,15 @@ tags:
 ### [Go to Japanese page](/news/20260528-4th-AA-ITS-Workshop/)
 ---
 
-# Overview
+# 4th AA-ITS Taiwan Workshop
+## Organized by: Special Technical Committee on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (AA-ITS), IEICE
+## Co-organized by: Technical Committee on Intelligent Transport Systems (ITS), IEICE
+## Supported by: ITS Japan
 
-* **Dates:** December 3 – 4, 2026 (Updated from May)
-* **Venue:** [III Building, 14th Floor, No. 133, Section 4, Minsheng East Road, Taipei City, Taiwan](https://www.iii.org.tw/en)
-* **Registration Fee (Tentative):** 30,000 – 40,000 JPY (Online: 5,000 JPY)
-* *Note: Field visits, corporate exhibitions, and demonstrations will not be live-streamed; online access covers selected portions of the workshop only.*
+### **Dates:** December 3 – 4, 2026 (Updated from May)
+### **Venue:** [III Building, 14th Floor, No. 133, Section 4, Minsheng East Road, Taipei City, Taiwan](https://www.iii.org.tw/en)
+### **Registration Fee (Tentative):** 30,000 – 40,000 JPY (Online: 5,000 JPY)
+### *Note: Field visits, corporate exhibitions, and demonstrations will not be live-streamed; online access covers selected portions of the workshop only.*
 
 
 
