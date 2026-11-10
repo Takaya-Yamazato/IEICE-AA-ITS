@@ -17,8 +17,11 @@ tags:
 <h3>(開催日が5月28日-29日から変更となりました)</h3>
 
 # 4th AA-ITS ワークショップ（第4回研究会）＠台湾
-主催：電子情報通信学会 車載ICTとAD/ADAS-ITS インフラを核とする地域ICTプラットフォームに関する特別研究専門委員会 (AA-ITS研究会）  
-併催：電子情報通信学会 高度交通システム研究専門委員会 (ITS研究会）  
+主催：   
+- 電子情報通信学会 車載ICTとAD/ADAS-ITS インフラを核とする地域ICTプラットフォームに関する特別研究専門委員会 (IEICE AA-ITS研究会）  
+- Institute for Information Industry (III)   
+
+併催：電子情報通信学会 高度交通システム研究専門委員会 (IEICE ITS研究会）  
 後援：ITS Japan
 ## 【日時】 2026年12月3日～4日 (updated)
 ## 【会場】 [財団法人資訊工業策進会（III）building](https://www.iii.org.tw/en)
@@ -117,4 +120,4 @@ tags:
 - A4 1枚～6枚の予稿（<a href="https://www.ieice.org/jpn_r/event/kenkyukai/index.html" target="_blank">研究会スタイルファイル</a>を利用ください）を別途提出（11月27日（金）締切）
 
 --
-
+![leaflet](./img/20261203/leaflet_iii.jpg)
