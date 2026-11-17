@@ -118,4 +118,4 @@ ITS Japan
 * Final manuscript submission (1 to 6 A4 pages using the [Technical Committee Style Files](https://www.ieice.org/jpn_r/event/kenkyukai/index.html)) is due by Friday, November 27.
 
 ---
-![leaflet](./img/20261203/leaflet_iii.jpg) 
+![logo](./img/20261203/logo_iii.jpg) 
