@@ -97,7 +97,7 @@ tags:
 
 
 
-# 参加申し込み（ ~~10月23日〆切~~ <font color="red">11月16日まで締切延長中．</font>）
+# 参加申し込み（ ~~10月23日〆切~~ ~~11月16日まで締切延長中~~ 締切済）
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9ttFz8gakDgKJCHk-LyIJJrp2hvKo_qOUEFXpWOOHaUAdTA/viewform?usp=dialog" target="_blank">　Google form</a>からご登録ください．  <BR>
 なお，準備の都合上，上限人数に達した場合は早期に締め切る場合がございます．お早めにご登録ください．
 
@@ -111,7 +111,7 @@ tags:
 エントリー（90,000 JPY～）を希望される方はメール（宛先：aa-its-core [at] mail.ieice.org）でご連絡ください．
 
 
-# ポスターセッションについて（ ~~10月23日〆切~~ <font color="red">11月16日まで締切延長中．</font>）
+# ポスターセッションについて（ ~~10月23日〆切~~  ~~11月16日まで締切延長中~~ 締切済）
 一般発表としてポスターセッションを予定しています．
 ご発表いただける方は，上記参加申し込みに加え，発表を<a href="https://ken.ieice.org/ken/program/index.php?tgid=IEICE-AA-ITS" target="_blank">研究会システム</a>で登録ください．
 
