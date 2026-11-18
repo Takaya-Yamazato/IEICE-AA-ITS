@@ -22,7 +22,8 @@ tags:
 - Institute for Information Industry (III)   
 
 併催：電子情報通信学会 高度交通システム研究専門委員会 (IEICE ITS研究会）  
-後援：ITS Japan
+後援：ITS Japan  
+テクニカルスポンサー：Technical sponsor by IEICE Taipei Section
 ## 【日時】 2026年12月3日～4日 (updated)
 ## 【会場】 [財団法人資訊工業策進会（III）building](https://www.iii.org.tw/en)
 ### （台湾台北市民生東路4段133号14階）
