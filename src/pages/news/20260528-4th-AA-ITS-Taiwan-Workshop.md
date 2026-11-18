@@ -24,6 +24,8 @@ tags:
 Technical Committee on Intelligent Transport Systems (ITS), IEICE
 * Supported by:    
 ITS Japan
+* Technical sponsor by:   
+IEICE Taipei Section
 
 ## **Dates:** December 3 – 4, 2026 (Updated from May)
 ## **Venue:** [III Building, 14th Floor, No. 133, Section 4, Minsheng East Road, Taipei City, Taiwan](https://www.iii.org.tw/en)
