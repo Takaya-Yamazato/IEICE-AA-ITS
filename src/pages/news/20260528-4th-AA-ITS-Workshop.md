@@ -60,7 +60,15 @@ tags:
 * **Title:** Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin
 * **Abstract:** Autonomous driving is expected to play a key role in future smart mobility systems. However, conventional autonomous vehicles rely primarily on onboard sensors and intelligence, which face fundamental limitations in perceiving occluded objects, predicting complex traffic situations, and ensuring safety in dynamic urban environments. To overcome these challenges, we have developed a novel framework for *Hybrid Autonomous Driving enabled by Smart Mobility Digital Twin*, integrating connected vehicles, intelligent roadside infrastructure, wireless communications, and artificial intelligence.
 
+---
 
+![Yoshiharu Doi](./img/20261203/doi.jpg)
+
+* **Yoshiharu Doi** (Leader of ITS Smart Pole Promotion Project, ITS Japan. ITS Promotion Dept., Mobility ITS Platform Planning Div., Toyota Motor Corporation)
+* **Title:** ITS cooperative infrastructure in Japan, led by ITS Japan
+* **Abstract:** Abstract: Since 2020, ITS Japan has been engaged in defining specifications for and promoting the adoption of "smart poles"-infrastructure that can support safe driving and autonomous vehicle operations. In 2025, the organization published "Smart Pole Guidelines 1.0." Momentum toward the deployment of smart poles in Japan is accelerating: they have been identified as a key technology within the 17 strategic areas designated by the Cabinet; the Japan Automobile Manufacturers Association has emphasized the necessity of cooperative ITS infrastructure to achieve the goals of "zero traffic fatalities" and "freedom of mobility"; and the promotion of ITS has been incorporated into the Third Plan for the Promotion of Bicycle Use. My presentation will provide an overview of these developments.
+
+---
 
 ![Henry Meng](./img/20261203/meng.jpg)
 
