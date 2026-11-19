@@ -29,7 +29,8 @@ IEICE Taipei Section
 
 ## **Dates:** December 3 – 4, 2026 (Updated from May)
 ## **Venue:** [III Building, 14th Floor, No. 133, Section 4, Minsheng East Road, Taipei City, Taiwan](https://www.iii.org.tw/en)
-## **Registration Fee (Tentative):** 30,000 – 40,000 JPY (Online: 5,000 JPY)   
+## **Registration Fee:
+30,000 JPY (IEICE member)，40,000 JPY (non member), 10,000 JPY (student), 5,000 JPY (Online)   
  *Note: Field visits, corporate exhibitions, and demonstrations will not be live-streamed; online access covers selected portions of the workshop only.*
 
 
