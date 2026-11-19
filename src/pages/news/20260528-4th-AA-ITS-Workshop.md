@@ -10,7 +10,7 @@ tags:
 - 4th Workshop on In-vehicle ICT and AD/ADAS-ITS Infrastructure for Regional ICT Platforms (4th AA-ITS Workshop)
 - 4th AA-ITS Workshop
 ---
-[2026.11.10 update]
+[2026.11.20 update]
 
 ### [Go to English page](/news/20260528-4th-AA-ITS-Taiwan-Workshop/)
 
@@ -27,8 +27,9 @@ tags:
 ## 【日時】 2026年12月3日～4日 (updated)
 ## 【会場】 [財団法人資訊工業策進会（III）building](https://www.iii.org.tw/en)
 ### （台湾台北市民生東路4段133号14階）
-## 【参加費（予定）】30,000 ～ 40,000 JPY（オンライン参加 5,000 JPY）
-　※オンライン参加について，現地視察，企業展示，デモなどのオンライン配信は致しません．研究会の一部のみの配信となりますこと，ご了承ください．
+## 【参加費】
+30,000 JPY（会員），40,000 JPY（非会員），10,000 JPY（学生），5,000 JPY（オンライン参加）   
+※オンライン参加について，現地視察，企業展示，デモなどのオンライン配信は致しません．研究会の一部のみの配信となりますこと，ご了承ください．
 ## 【プログラム（予定）】
 ### 1日目（12月3日（木））
 - 13:00-13:30 受付
